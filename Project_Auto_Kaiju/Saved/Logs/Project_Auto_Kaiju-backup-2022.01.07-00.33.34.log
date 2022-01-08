@@ -1,0 +1,1796 @@
+﻿Log file open, 01/07/22 00:25:15
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Project_Auto_Kaiju
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.269679
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogXGEController: Cleaning working directory: C:/Users/Thai/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -game
+LogInit: Base Directory: G:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.01.07-00.25.16:634][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.01.07-00.25.16:634][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.01.07-00.25.16:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Engine.ini]
+[2022.01.07-00.25.16:634][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.07-00.25.16:634][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.000100]]
+[2022.01.07-00.25.16:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Engine.ini]
+[2022.01.07-00.25.16:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Engine.ini]
+[2022.01.07-00.25.16:634][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.07-00.25.16:634][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.07-00.25.16:634][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Engine.ini]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.07-00.25.16:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Engine.ini]
+[2022.01.07-00.25.16:635][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Engine.ini]
+[2022.01.07-00.25.16:663][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.07-00.25.16:664][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:664][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.07-00.25.16:665][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.07-00.25.16:665][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.07-00.25.16:665][  0]LogHAL: Display: Platform has ~ 16 GB [17124519936 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.07-00.25.16:665][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.07-00.25.16:665][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.07-00.25.16:665][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.07-00.25.16:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.07-00.25.16:667][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.07-00.25.16:667][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:667][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.07-00.25.16:667][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.07-00.25.16:667][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Scalability.ini]
+[2022.01.07-00.25.16:667][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.07-00.25.16:667][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.07-00.25.16:667][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.07-00.25.16:667][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.07-00.25.16:667][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.07-00.25.16:667][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.07-00.25.16:667][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.07-00.25.16:667][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Engine.ini]
+[2022.01.07-00.25.16:667][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Config/Windows/Editor.ini]
+[2022.01.07-00.25.16:668][  0]LogInit: Computer: THAI-PC
+[2022.01.07-00.25.16:668][  0]LogInit: User: Thai
+[2022.01.07-00.25.16:668][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.01.07-00.25.16:668][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.07-00.25.16:668][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.01.07-00.25.16:668][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.07-00.25.16:668][  0]LogMemory: Process Physical Memory: 137.55 MB used, 137.55 MB peak
+[2022.01.07-00.25.16:668][  0]LogMemory: Process Virtual Memory: 119.30 MB used, 119.30 MB peak
+[2022.01.07-00.25.16:668][  0]LogMemory: Physical Memory: 6355.94 MB used,  9975.28 MB free, 16331.21 MB total
+[2022.01.07-00.25.16:668][  0]LogMemory: Virtual Memory: 134195768.00 MB used,  21959.45 MB free, 134217728.00 MB total
+[2022.01.07-00.25.16:674][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.07-00.25.16:745][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.07-00.25.16:746][  0]LogInit: Using OS detected language (en-US).
+[2022.01.07-00.25.16:746][  0]LogInit: Using OS detected locale (en-US).
+[2022.01.07-00.25.16:749][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.01.07-00.25.16:989][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.07-00.25.17:040][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.07-00.25.17:040][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.07-00.25.17:082][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.07-00.25.17:082][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.07-00.25.17:082][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.07-00.25.17:201][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2022.01.07-00.25.17:201][  0]LogD3D11RHI:       5967/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.01.07-00.25.17:203][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.07-00.25.17:203][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.07-00.25.17:203][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.01.07-00.25.17:212][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.07-00.25.17:212][  0]LogD3D11RHI:     GPU DeviceId: 0x1e89 (for the marketing name, search the web for "GPU Device Id")
+[2022.01.07-00.25.17:212][  0]LogWindows: EnumDisplayDevices:
+[2022.01.07-00.25.17:212][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2022.01.07-00.25.17:213][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2022.01.07-00.25.17:213][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.01.07-00.25.17:214][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.01.07-00.25.17:214][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.01.07-00.25.17:214][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.01.07-00.25.17:214][  0]LogD3D11RHI:   Driver Version: 496.13 (internal:30.0.14.9613, unified:496.13)
+[2022.01.07-00.25.17:214][  0]LogD3D11RHI:      Driver Date: 10-6-2021
+[2022.01.07-00.25.17:214][  0]LogRHI: Texture pool is 4176 MB (70% of 5967 MB)
+[2022.01.07-00.25.17:272][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.07-00.25.17:272][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.07-00.25.17:272][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.07-00.25.17:297][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.01.07-00.25.17:299][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.01.07-00.25.17:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.07-00.25.17:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.07-00.25.17:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.07-00.25.17:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.07-00.25.17:694][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.07-00.25.17:703][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.07-00.25.17:763][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.07-00.25.17:763][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Intermediate/Shaders/WorkingDirectory/29368/).
+[2022.01.07-00.25.17:764][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Thai/AppData/Local/Temp/UnrealShaderWorkingDir/1252B3F940134C110F21A0B8715FB043/'.
+[2022.01.07-00.25.17:764][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.07-00.25.17:764][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.07-00.25.18:621][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.07-00.25.18:681][  0]LogDerivedDataCache: Loaded boot cache 0.06s 81MB C:/Users/Thai/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.01.07-00.25.18:681][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Thai/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.01.07-00.25.18:682][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.07-00.25.18:682][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.07-00.25.18:682][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.07-00.25.18:682][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.07-00.25.18:693][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.07-00.25.18:694][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.07-00.25.18:694][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.07-00.25.18:705][  0]LogDerivedDataCache: Speed tests for C:/Users/Thai/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.01.07-00.25.18:705][  0]LogDerivedDataCache: Display: Performance to C:/Users/Thai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=746.38MBs, RandomWriteSpeed=96.23MBs. Assigned SpeedClass 'Local'
+[2022.01.07-00.25.18:706][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Thai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.07-00.25.18:706][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.07-00.25.18:706][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.07-00.25.18:765][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.07-00.25.18:766][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.07-00.25.18:868][  0]LogInit: Using OS detected language (en-US).
+[2022.01.07-00.25.18:868][  0]LogInit: Using OS detected locale (en-US).
+[2022.01.07-00.25.18:868][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.01.07-00.25.18:868][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2022.01.07-00.25.18:868][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.01.07-00.25.18:868][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.01.07-00.25.18:869][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2022.01.07-00.25.18:872][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2022.01.07-00.25.19:117][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.083167 seconds
+[2022.01.07-00.25.19:182][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.07-00.25.19:182][  0]LogInit: Active device profile: [0000017CBEAC2200][0000017CB5480500 49] Windows
+[2022.01.07-00.25.19:182][  0]LogInit: Profiles: [0000017CBEAC2200][0000017CB5480500 49] Windows, [0000017CBEA73700][0000017CB5AAE680 49] WindowsNoEditor, [0000017CBEAC0900][0000017CB5AB2800 49] WindowsServer, [0000017CBEA70D00][0000017CB5AB6980 49] WindowsClient, [0000017CBEAC3100][0000017CB5ABAB00 49] IOS, [0000017CBEA71700][0000017CB7F96C80 49] iPadAir, [0000017CBEAC1300][0000017CB7F9AE00 49] iPadAir2, [0000017CBEA17300][0000017CB7FA30C0 49] IPadPro, [0000017CBEA17400][0000017CB7F9F100 49] iPadAir3, [0000017CBEAC3C00][0000017CB5AAB240 49] iPadAir4, [0000017CBEA17700][0000017CB7FA7380 49] iPadMini2, [0000017CBEAC0C00][0000017CB7FAB4C0 49] iPadMini3, [0000017CBEA15600][0000017CB7FAF600 49] iPadMini4, [0000017CBEAC2D00][0000017CB7FB7780 49] iPadMini5, [0000017CBEA4AC00][0000017CB7FBFA40 49] iPhone6, [0000017CBEA4AD00][0000017CB7FBBA80 49] iPodTouch6, [0000017CBEA17E00][0000017CB7FC7D40 49] iPhone7, [0000017CBEA17F00][0000017CB7FC20C0 49] iPodTouch7, [0000017CBEA4A700][0000017CB7FCA240 49] iPhone5S, [0000017CBEA17200][0000017CB7FCE3C0 49] iPhone6Plus, [0000017CBEA4BC00][0000017CB7FD2540 49] iPhone6S, [0000017CBEA14100][0000017CB7FD66C0 49] iPhone6SPlus, [0000017CBEA4A900][0000017CB7FDA840 49] iPhone7Plus, [0000017CBEA17C00][0000017CB7FDE9C0 49] iPhoneSE, [0000017CBEA4A800][0000017CB7FE2B40 49] iPhone8, [0000017CBEA17800][0000017CB7FE6CC0 49] iPhone8Plus, [0000017CBEA49F00][0000017CB7FEAE40 49] iPhoneX, [0000017CBEA15A00][0000017CB7FEEFC0 49] iPhoneXS, [0000017CBEA48600][0000017CB7FF3140 49] iPhoneXSMax, [0000017CBEA14A00][0000017CB7FB3280 49] iPhoneXR, [0000017CBEA4B200][0000017CB7FF73C0 49] iPhone11, [0000017CBEA17100][0000017CB7FFB500 49] iPhone11Pro, [0000017CBEA48700][0000017CB7FFF640 49] iPhone11ProMax, [0000017CBEA14E00][0000017CB80077C0 49] iPhoneSE2, [0000017CBEA49C00][0000017CB800B940 49] iPhone12Mini, [0000017CBEA15D00][0000017CB800FAC0 49] iPhone12, [0000017CBEA49600][0000017CB8013C40 49] iPhone12Pro, [0000017CBEA16E00][0000017CB8016100 49] iPhone12ProMax, [0000017CBEA4A400][0000017CB801A280 49] iPadPro105, [0000017CBEA17B00][0000017CB801E400 49] iPadPro129, [0000017CBEA4BA00][0000017CB8022580 49] iPadPro97, [0000017CBEA15900][0000017CB8026700 49] iPadPro2_129, [0000017CBEA71400][0000017CB802A880 49] iPad5, [0000017CBEA4B500][0000017CB802EA00 49] iPad6, [0000017CBEA71D00][0000017CB8032B80 49] iPad7, [0000017CBEA48B00][0000017CB8036D00 49] iPad8, [0000017CBEA71200][0000017CB803AE80 49] iPadPro11, [0000017CBEA4B600][0000017CB803F000 49] iPadPro2_11, [0000017CBEA70400][0000017CB8043180 49] iPadPro3_129, [0000017CBEA4A300][0000017CB8047300 49] iPadPro4_129, [0000017CBEA73F00][0000017CB8003440 49] AppleTV, [0000017CBEA49E00][0000017CB804B580 49] AppleTV4K, [0000017CBEA70800][0000017CB804F6C0 49] TVOS, [0000017CBEA48C00][0000017CB8057840 49] Mac, [0000017CBEA14F00][0000017CB805B9C0 49] MacClient, [0000017CBEA73400][0000017CB805FB40 49] MacNoEditor, [0000017CBEA16500][0000017CB8063CC0 49] MacServer, [0000017CBEA48500][0000017CB8066180 49] Linux, [0000017CBEA17500][0000017CB806A300 49] LinuxAArch64, [0000017CBEA4A200][0000017CB806E480 49] LinuxNoEditor, [0000017CBEA16800][0000017CB8072600 49] LinuxAArch64NoEditor, [0000017CBEA4AA00][0000017CB8076780 49] LinuxClient, [0000017CBEA17000][0000017CB807A900 49] LinuxAArch64Client, [0000017CBEA49D00][0000017CB807EA80 49] LinuxServer, [0000017CBEA16200][0000017CB8082C00 49] LinuxAArch64Server, [0000017CBEA48400][0000017CB8086D80 49] Android, [0000017CBEA15E00][0000017CB808AF00 49] Android_Low, [0000017CBEA49000][0000017CB808F080 49] Android_Mid, [0000017CBEA16F00][0000017CB8093200 49] Android_High, [0000017CBEA49100][0000017CB8097380 49] Android_Default, [0000017CBEA14D00][0000017CB80534C0 49] Android_Adreno4xx, [0000017CBEA4B100][0000017CB809B600 49] Android_Adreno5xx_Low, [0000017CBEA15000][0000017CB809F740 49] Android_Adreno5xx, [0000017CBEA4B800][0000017CB80A3880 49] Android_Adreno6xx, [0000017CBEA17900][0000017CB80ABA00 49] Android_Adreno6xx_Vulkan, [0000017CBEA48D00][0000017CB80AFB80 49] Android_Mali_T6xx, [0000017CBEA16400][0000017CB80B3D00 49] Android_Mali_T7xx, [0000017CBEA4B400][0000017CB80B61C0 49] Android_Mali_T8xx, [0000017CBEA15300][0000017CB80BA340 49] Android_Mali_G71, [0000017CBEA49A00][0000017CB80BE4C0 49] Android_Mali_G72, [0000017CBEA17A00][0000017CB80C2640 49] Android_Mali_G72_Vulkan, [0000017CBEA49200][0000017CB80C67C0 49] Android_Mali_G76, [0000017CBEA16600][0000017CB80CA940 49] Android_Mali_G76_Vulkan, [0000017CBEA4A000][0000017CB80CEAC0 49] Android_Mali_G77, [0000017CBEA14700][0000017CB80D2C40 49] Android_Mali_G77_Vulkan, [0000017CBEA48100][0000017CB80D6DC0 49] Android_Vulkan_SM5, [0000017CBEA15F00][0000017CB80DAF40 49] Android_PowerVR_G6xxx, [0000017CBEA49B00][0000017CB80DF0C0 49] Android_PowerVR_GT7xxx, [0000017CBEA15200][0000017CB80E3240 49] Android_PowerVR_GE8xxx, [0000017CBEA4BE00][0000017CB80E73C0 49] Android_PowerVR_GM9xxx, [0000017CBEA17D00][0000017CB80A7500 49] Android_PowerVR_GM9xxx_Vulkan, [0000017CBEA4A100][0000017CB80EB640 49] Android_TegraK1, [0000017CBEA14300][0000017CB80EF780 49] Android_Unknown_Vulkan, [0000017CBEA48E00][0000017CB80F38C0 49] Lumin, [0000017CBEA15400][0000017CB80FBA40 49] Lumin_Desktop, [0000017CBEA48800][0000017CB80FFBC0 49] HoloLens, 
+[2022.01.07-00.25.19:291][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.07-00.25.19:291][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.07-00.25.19:292][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.07-00.25.19:292][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.07-00.25.19:292][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.07-00.25.19:338][  0]LogNetVersion: Project_Auto_Kaiju 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1482073134)
+[2022.01.07-00.25.19:644][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.07-00.25.19:752][  0]LogMoviePlayer: Initializing movie player
+[2022.01.07-00.25.20:011][  0]SourceControl: Source control is disabled
+[2022.01.07-00.25.20:011][  0]SourceControl: Source control is disabled
+[2022.01.07-00.25.20:014][  0]SourceControl: Source control is disabled
+[2022.01.07-00.25.20:020][  0]LogUProjectInfo: Found projects:
+[2022.01.07-00.25.20:125][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.07-00.25.20:143][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.07-00.25.20:143][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.07-00.25.20:191][  0]LogOcInput: OculusInput pre-init called
+[2022.01.07-00.25.20:199][  0]LogUObjectArray: 20152 objects as part of root set at end of initial load.
+[2022.01.07-00.25.20:199][  0]LogUObjectAllocator: 5368848 out of 0 bytes used by permanent object pool.
+[2022.01.07-00.25.20:199][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.07-00.25.20:240][  0]LogEngine: Initializing Engine...
+[2022.01.07-00.25.20:241][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.07-00.25.20:243][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.01.07-00.25.20:340][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.07-00.25.20:341][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.07-00.25.20:345][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.07-00.25.20:345][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.07-00.25.20:345][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.07-00.25.20:345][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.07-00.25.20:345][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.07-00.25.20:345][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.07-00.25.20:345][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.07-00.25.20:345][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.07-00.25.20:345][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.07-00.25.20:345][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.07-00.25.20:345][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.07-00.25.20:345][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.07-00.25.20:377][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.07-00.25.20:377][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.07-00.25.20:430][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.01.07-00.25.20:437][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.07-00.25.20:439][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.07-00.25.20:439][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.07-00.25.20:440][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.07-00.25.20:440][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.07-00.25.20:440][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.07-00.25.20:441][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.07-00.25.20:441][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.07-00.25.20:441][  0]LogInit: FAudioDevice initialized.
+[2022.01.07-00.25.20:442][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.07-00.25.20:646][  0]LogDerivedDataCache: Saved boot cache 0.20s 81MB C:/Users/Thai/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.01.07-00.25.20:652][  0]LogInit: Texture streaming: Enabled
+[2022.01.07-00.25.20:822][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Data/KaijuGameInstance.KaijuGameInstance_C:UnitBoardData.UnitBoardData'. Unknown structure.
+[2022.01.07-00.25.20:823][  0]LogClass: Warning: Property UnitBoardData of UnitBoardData has a struct type mismatch (tag FallbackStruct != prop UnitBoardData_Struct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.07-00.25.20:826][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.07-00.25.20:826][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.07-00.25.20:827][  0]LogInit: Display: Game Engine Initialized.
+[2022.01.07-00.25.20:872][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.01.07-00.25.20:900][  0]LogInit: Display: Starting Game.
+[2022.01.07-00.25.20:900][  0]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap?Name=Player
+[2022.01.07-00.25.20:900][  0]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap?Name=Player
+[2022.01.07-00.25.20:900][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.01.07-00.25.20:903][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.07-00.25.20:903][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.07-00.25.20:907][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.07-00.25.20:910][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.01.07-00.25.22:972][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2022.01.07-00.25.22:979][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.01.07-00.25.22:979][  0]LogLoad: Game class is 'KaijuGameMode_C'
+[2022.01.07-00.25.23:010][  0]LogWorld: Bringing World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2022.01.07-00.25.23
+[2022.01.07-00.25.23:010][  0]LogWorld: Bringing up level for play took: 0.030123
+[2022.01.07-00.25.23:021][  0]LogLoad: Took 2.120956 seconds to LoadMap(/Game/TopDownBP/Maps/TopDownExampleMap)
+[2022.01.07-00.25.23:255][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2022.01.07-00.25.23:255][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.07-00.25.23:255][  0]LogLoad: (Engine Initialization) Total time: 8.81 seconds
+[2022.01.07-00.25.23:255][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.07-00.25.23:255][  0]LogInit: First time updating LLM stats...
+[2022.01.07-00.25.23:258][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.07-00.25.23:274][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.07-00.25.23:494][  0]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:1).
+[2022.01.07-00.25.23:551][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:2).
+[2022.01.07-00.25.23:997][ 66]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/Blueprints/Actors/Nonlethal/Helicopter_NonLethal.Helicopter_NonLethal_C:FindTarget'!
+[2022.01.07-00.25.27:202][656]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.07-00.25.28:990][973]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/Blueprints/Actors/Nonlethal/Helicopter_NonLethal.Helicopter_NonLethal_C:FindTarget'!
+[2022.01.07-00.25.33:987][896]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_1' of length 0 in '/Game/Blueprints/Actors/Nonlethal/Helicopter_NonLethal.Helicopter_NonLethal_C:FindTarget'!
+[2022.01.07-00.25.36:508][354]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] UNIT BOUGHT!
+[2022.01.07-00.25.36:511][354]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.25.36:511][354]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 false -  1
+[2022.01.07-00.25.38:269][672]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] UNIT BOUGHT!
+[2022.01.07-00.25.38:272][672]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.25.38:272][672]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 false -  2
+[2022.01.07-00.25.39:011][803]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] Actor Picked Up
+[2022.01.07-00.25.39:445][882]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 false -  2
+[2022.01.07-00.25.43:949][698]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] UNIT BOUGHT!
+[2022.01.07-00.25.43:951][698]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.25.43:951][698]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 false -  1
+[2022.01.07-00.25.44:538][798]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] Actor Picked Up
+[2022.01.07-00.25.45:175][914]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 false -  1
+[2022.01.07-00.25.46:995][237]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] UNIT BOUGHT!
+[2022.01.07-00.25.46:998][237]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.25.46:998][237]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 false -  1
+[2022.01.07-00.25.47:435][310]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] Actor Picked Up
+[2022.01.07-00.25.48:174][444]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 false -  1
+[2022.01.07-00.25.48:786][548]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] Actor Picked Up
+[2022.01.07-00.25.49:583][685]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 false -  1
+[2022.01.07-00.25.49:583][685]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] KAIJU SWAPPED
+[2022.01.07-00.25.50:230][794]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 false -  2
+[2022.01.07-00.25.50:230][794]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] KAIJU SWAPPED
+[2022.01.07-00.25.50:879][907]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 false -  1
+[2022.01.07-00.25.56:786][920]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.25.56:906][940]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.25.58:759][236]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.25.58:880][253]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.00:905][522]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.01:029][538]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.02:869][791]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.02:884][793]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.03:004][810]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.03:758][920]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.26.04:841][ 77]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.05:032][105]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.05:150][122]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.06:775][354]LogBlueprintUserMessages: [Kaiju_Master_C_1] POISON FUMES ON
+[2022.01.07-00.26.06:986][384]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.07:008][387]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.07:135][405]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.07:256][422]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.26.07:703][484]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.26.07:758][492]LogBlueprintUserMessages: [Vehicle_Master_C_2] ATTACK
+[2022.01.07-00.26.07:758][492]LogBlueprintUserMessages: [Vehicle_Master_C_1] ATTACK
+[2022.01.07-00.26.09:156][688]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.09:162][689]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.26.09:253][702]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.26.09:277][705]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.09:756][772]LogBlueprintUserMessages: [Vehicle_Master_C_1] ATTACK
+[2022.01.07-00.26.09:756][772]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.26.09:756][772]LogBlueprintUserMessages: [Vehicle_Master_C_2] ATTACK
+[2022.01.07-00.26.10:270][845]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.11:138][968]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.11:167][972]LogBlueprintUserMessages: [Kaiju_Master_C_3] EVADING LEAP
+[2022.01.07-00.26.11:754][ 56]LogBlueprintUserMessages: [Vehicle_Master_C_2] ATTACK
+[2022.01.07-00.26.11:755][ 56]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.26.11:755][ 56]LogBlueprintUserMessages: [Vehicle_Master_C_1] ATTACK
+[2022.01.07-00.26.12:243][125]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.12:307][134]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.13:382][290]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.13:759][345]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.26.14:283][424]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.14:391][440]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.15:270][573]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.15:355][586]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.15:754][647]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.26.16:426][749]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.17:243][873]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.17:504][914]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.18:407][ 54]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.18:578][ 81]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.19:201][174]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.26.19:253][182]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.26.19:753][255]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.26.20:196][326]LogBlueprintUserMessages: [Vehicle_Master_C_0] STUNNED
+[2022.01.07-00.26.20:555][383]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.20:555][383]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.22:533][715]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.22:697][743]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.22:865][772]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.23:755][925]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.26.24:676][ 67]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.24:676][ 67]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.24:839][ 94]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.25:205][161]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.26.25:757][258]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.26.26:456][380]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.26.26:653][415]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.26:825][445]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.26:989][474]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.27:159][504]LogBlueprintUserMessages: [Kaiju_Master_C_3] EVADING LEAP
+[2022.01.07-00.26.27:770][610]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.26.28:309][703]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.28:384][716]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.28:968][816]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.30:261][ 40]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.30:285][ 44]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.30:359][ 57]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.32:238][396]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.32:505][447]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.32:510][448]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.34:381][795]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.34:482][813]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.35:106][923]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.36:359][145]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.36:381][149]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.37:081][276]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.38:355][507]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.38:508][535]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.39:201][665]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.26.39:229][670]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.40:258][860]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] YOU WIN
+[2022.01.07-00.26.40:505][906]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.40:506][906]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.41:380][ 57]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.41:670][106]LogBlueprintUserMessages: [Kaiju_Master_C_3] EVADING LEAP
+[2022.01.07-00.26.42:480][244]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.42:867][307]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.43:356][387]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.44:630][594]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.44:842][628]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.45:501][735]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.46:607][921]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.46:988][984]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.47:483][ 69]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.48:510][245]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.48:967][323]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.49:626][435]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.50:456][585]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.26.50:483][590]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.51:111][704]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.51:605][793]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.52:631][977]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.53:750][176]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.26.54:066][233]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.54:610][331]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.54:899][383]LogBlueprintUserMessages: [Kaiju_Master_C_1] POISON FUMES OFF
+[2022.01.07-00.26.55:771][541]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.26.56:043][589]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.56:276][628]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.26.57:105][771]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.57:163][781]LogBlueprintUserMessages: [Kaiju_Master_C_3] EVADING LEAP
+[2022.01.07-00.26.57:272][800]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.26.58:187][962]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.26.58:278][977]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.26.58:306][982]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.26.59:275][147]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.00:165][296]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.27.00:276][314]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.00:281][315]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.01:276][487]LogBlueprintUserMessages: [Kaiju_Master_C_1] POISON FUMES ON
+[2022.01.07-00.27.02:274][660]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.02:316][667]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.27.02:429][687]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.03:276][831]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.04:274][  3]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.04:292][  6]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.27.04:408][ 26]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.05:273][174]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.06:276][346]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.06:441][375]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.27.06:552][394]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.07:275][517]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.07:948][632]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.27.08:278][688]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.08:416][712]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.27.08:531][732]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.09:276][857]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.10:273][ 23]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.10:621][ 83]LogBlueprintUserMessages: [Spectator_Utility_C_0] 2
+[2022.01.07-00.27.10:680][ 93]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.11:276][191]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.11:665][257]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.27.12:278][361]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.12:659][423]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.13:274][528]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.13:640][593]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.27.14:061][666]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.27.14:277][703]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.14:801][789]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.15:167][842]LogBlueprintUserMessages: [Kaiju_Master_C_3] EVADING LEAP
+[2022.01.07-00.27.15:279][858]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.16:278][  8]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.16:313][ 13]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.16:659][ 67]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.27.17:277][167]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.17:705][233]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.27.18:279][322]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.18:285][323]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.18:636][378]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.27.19:274][476]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.20:273][630]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.20:431][654]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.21:276][788]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.21:664][849]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.27.22:271][949]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.22:409][973]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.23:273][115]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.23:642][174]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.27.24:273][271]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.24:511][309]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.25:274][428]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.25:783][500]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.27.26:276][579]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.26:483][611]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.27:276][721]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.27:951][802]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.27.28:274][844]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.28:632][893]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.27.29:281][952]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.30:277][ 48]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.31:281][163]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.32:276][268]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.32:385][277]LogBlueprintUserMessages: [Kaiju_Master_C_1] POISON FUMES OFF
+[2022.01.07-00.27.33:278][369]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.34:278][490]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.35:273][618]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.36:283][733]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.37:279][857]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.38:272][  4]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.39:274][157]LogBlueprintUserMessages: [Kaiju_Master_C_1] POISON FUMES ON
+[2022.01.07-00.27.40:278][314]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.41:277][470]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.42:273][628]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.43:278][784]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.44:278][941]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.45:278][ 94]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.46:277][247]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.47:277][400]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.48:275][554]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.49:277][704]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.50:278][857]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.51:275][  8]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.51:705][ 75]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.27.52:275][166]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.52:704][235]LogBlueprintUserMessages: [Infantry_Master_C_3] STUNNED
+[2022.01.07-00.27.53:276][321]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.54:275][470]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.55:274][619]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.56:273][764]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.57:274][909]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.58:275][ 61]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.27.59:278][210]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.00:276][332]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.01:272][477]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.02:274][624]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.03:277][769]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.04:278][914]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.05:275][ 48]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.06:275][199]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.07:277][355]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.08:273][504]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.09:274][662]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.10:274][818]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.11:278][953]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.12:277][110]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.12:385][127]LogBlueprintUserMessages: [Kaiju_Master_C_1] POISON FUMES OFF
+[2022.01.07-00.28.13:275][262]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.14:280][408]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.15:272][553]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.16:277][713]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.17:277][874]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.18:280][ 30]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.19:277][189]LogBlueprintUserMessages: [Kaiju_Master_C_1] POISON FUMES ON
+[2022.01.07-00.28.20:272][343]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.21:276][502]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.22:275][661]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.23:279][819]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.24:273][976]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.25:274][132]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.26:277][290]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.27:278][443]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.28:277][599]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.29:277][754]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.30:272][906]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.31:278][ 59]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.32:279][188]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.33:279][321]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.34:275][447]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.35:277][595]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.36:272][734]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.28.36:914][835]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] LOAD COMPLETE
+[2022.01.07-00.28.36:914][835]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap
+[2022.01.07-00.28.36:914][835]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap
+[2022.01.07-00.28.36:914][835]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/TopDownExampleMap
+[2022.01.07-00.28.36:917][835]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.07-00.28.36:920][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.07-00.28.36:957][835]LogAudio: Display: Waited 35.655201 ms for audio thread.
+[2022.01.07-00.28.36:966][835]LogAudio: Display: Waited 44.931198 ms for audio thread.
+[2022.01.07-00.28.36:970][835]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.07-00.28.37:025][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.01.07-00.28.39:101][835]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2022.01.07-00.28.39:102][835]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.01.07-00.28.39:102][835]LogLoad: Game class is 'KaijuGameMode_C'
+[2022.01.07-00.28.39:133][835]LogWorld: Bringing World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2022.01.07-00.28.39
+[2022.01.07-00.28.39:133][835]LogWorld: Bringing up level for play took: 0.030375
+[2022.01.07-00.28.39:145][835]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.28.39:145][835]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] CANT PLACE THERE
+[2022.01.07-00.28.39:147][835]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.28.39:147][835]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] CANT PLACE THERE
+[2022.01.07-00.28.39:149][835]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.28.39:149][835]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] CANT PLACE THERE
+[2022.01.07-00.28.39:151][835]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.28.39:151][835]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] CANT PLACE THERE
+[2022.01.07-00.28.39:151][835]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] LOAD COMPLETE
+[2022.01.07-00.28.39:152][835]LogLoad: Took 2.237469 seconds to LoadMap(/Game/TopDownBP/Maps/TopDownExampleMap)
+[2022.01.07-00.28.43:017][298]LogBlueprintUserMessages: [Kaiju_Master_C_2] HEAL
+[2022.01.07-00.28.47:881][952]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.28.47:881][952]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.28.49:854][207]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.28.49:855][207]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.28.52:001][475]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.28.52:001][475]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.28.53:884][710]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.28.53:982][722]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.28.55:855][952]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.28.56:128][985]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.28.58:000][207]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.28.58:109][220]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.28.58:878][312]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.28.59:979][443]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.00:249][473]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.00:266][475]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.29.00:347][484]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.29.00:852][542]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.00:924][550]LogBlueprintUserMessages: [Kaiju_Master_C_3] EVADING LEAP
+[2022.01.07-00.29.02:128][691]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.02:355][718]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.29.03:000][796]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.03:878][902]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.04:105][929]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.04:348][959]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.29.04:983][ 37]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.05:853][146]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.06:259][197]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.06:347][207]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.29.07:129][308]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.07:995][421]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.08:229][452]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.08:350][468]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.29.09:099][568]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.09:882][668]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.09:975][680]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.10:857][792]LogBlueprintUserMessages: [Vehicle_Master_C_2] ATTACK
+[2022.01.07-00.29.11:251][844]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.11:267][846]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.29.11:859][924]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.12:123][958]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.12:271][976]LogBlueprintUserMessages: [Vehicle_Master_C_2] STUNNED
+[2022.01.07-00.29.13:228][ 91]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.13:261][ 95]LogBlueprintUserMessages: [Kaiju_Master_C_1] POISON FUMES ON
+[2022.01.07-00.29.13:883][170]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.13:999][185]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.15:372][356]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.15:854][414]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.15:980][430]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.16:855][540]LogBlueprintUserMessages: [Vehicle_Master_C_2] ATTACK
+[2022.01.07-00.29.17:352][602]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.18:000][687]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.18:126][703]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.18:769][785]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.29.19:497][878]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.19:986][938]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.20:107][953]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.21:478][130]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.22:134][212]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.22:250][227]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.23:623][407]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.24:233][488]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.25:260][624]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.29.25:595][669]LogBlueprintUserMessages: [Kaiju_Master_C_3] EVADING LEAP
+[2022.01.07-00.29.26:380][776]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.26:685][816]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.28:354][ 40]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.28:658][ 84]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.28:765][ 99]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.29.28:858][112]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.29.30:018][277]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.29.30:280][313]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.30:501][343]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.30:853][392]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.29.31:434][473]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.29.31:483][480]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.32:103][568]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.29.32:255][590]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.32:480][622]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.32:765][662]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.29.32:856][674]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.29.33:432][749]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.29.33:463][753]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.33:874][806]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.34:626][904]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.34:860][934]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.29.34:883][937]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.35:018][954]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.29.35:851][ 64]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.36:022][ 88]LogBlueprintUserMessages: [Vehicle_Master_C_0] STUNNED
+[2022.01.07-00.29.36:881][205]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.36:881][205]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.37:433][283]LogBlueprintUserMessages: [Kaiju_Master_C_3] EVADING LEAP
+[2022.01.07-00.29.37:677][318]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.38:481][430]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.38:852][482]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.39:655][595]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.40:456][709]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.41:001][788]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.41:801][903]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.42:602][ 19]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.42:678][ 30]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.42:881][ 59]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.42:980][ 73]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.44:655][313]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.44:878][345]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.45:128][381]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.45:432][424]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.29.46:802][624]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.29.47:104][669]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.47:483][726]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.29.48:770][921]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.29.48:883][938]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.50:770][218]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] YOU WIN
+[2022.01.07-00.29.50:858][231]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.52:517][473]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.29.53:007][545]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.53:766][657]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.29.54:983][836]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.55:019][841]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.29.56:266][ 22]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.29.57:126][149]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.29.57:519][205]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.29.59:112][432]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.00:021][552]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.00:281][585]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.30.01:267][716]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.01:879][797]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.02:515][881]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.02:767][915]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.30.03:480][ 13]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.30.03:774][ 52]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.03:856][ 63]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.05:022][218]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.06:000][350]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.06:267][385]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.30.07:266][516]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.30.07:877][595]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.08:767][711]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.09:855][851]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.10:018][872]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.11:267][ 34]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.11:479][ 62]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.30.12:000][131]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.12:517][193]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.13:768][340]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.13:979][365]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.15:019][490]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.30.15:263][521]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.30.15:772][584]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.30.16:887][722]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.17:520][801]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.17:881][847]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.18:770][957]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.19:855][ 89]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.20:018][109]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.21:269][266]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.21:999][358]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.22:517][423]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.23:771][584]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.30.24:265][649]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.30.24:776][717]LogBlueprintUserMessages: [Infantry_Master_C_2] STUNNED
+[2022.01.07-00.30.24:880][731]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.26:857][992]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.27:519][ 77]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.28:774][234]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.28:999][260]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.30:017][394]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.30:884][515]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.31:267][568]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.32:517][742]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.30.32:772][777]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.30.32:859][789]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.33:881][927]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.35:021][ 80]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.35:859][191]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.36:266][246]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.37:520][419]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.38:000][486]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.38:773][599]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.38:880][614]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.40:022][774]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.40:857][892]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.41:273][948]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.30.43:007][197]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.44:264][380]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.30.44:768][454]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.30.45:017][490]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.45:880][617]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.46:266][673]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.47:517][857]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.47:855][907]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.48:769][ 40]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.50:000][219]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.50:021][222]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.30.51:648][464]LogBlueprintUserMessages: [Kaiju_Master_C_1] POISON FUMES OFF
+[2022.01.07-00.30.51:983][512]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.53:770][758]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.54:123][807]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.55:018][928]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.56:103][ 75]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.56:269][ 96]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.57:518][269]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.30.58:249][372]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.30.58:768][443]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.31.00:228][636]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.31.02:376][926]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.31.02:517][945]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.31.03:770][108]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.31.04:352][185]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.31.05:019][273]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.31.06:267][433]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.31.06:507][464]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.31.07:522][596]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.31.07:770][628]LogBlueprintUserMessages: [Kaiju_Master_C_1] POISON FUMES ON
+[2022.01.07-00.31.08:479][710]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.31.08:767][744]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.31.10:876][  6]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.31.11:027][ 26]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] UNIT BOUGHT!
+[2022.01.07-00.31.11:029][ 26]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.31.11:029][ 26]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 false -  2
+[2022.01.07-00.31.11:273][ 55]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.31.12:520][200]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.31.12:771][230]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.31.12:850][240]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.31.13:420][304]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] LOAD COMPLETE
+[2022.01.07-00.31.13:420][304]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap
+[2022.01.07-00.31.13:420][304]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap
+[2022.01.07-00.31.13:421][304]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/TopDownExampleMap
+[2022.01.07-00.31.13:424][304]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.07-00.31.13:430][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.07-00.31.13:502][304]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.07-00.31.13:540][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.01.07-00.31.15:630][304]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2022.01.07-00.31.15:631][304]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.01.07-00.31.15:632][304]LogLoad: Game class is 'KaijuGameMode_C'
+[2022.01.07-00.31.15:659][304]LogWorld: Bringing World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2022.01.07-00.31.15
+[2022.01.07-00.31.15:659][304]LogWorld: Bringing up level for play took: 0.026247
+[2022.01.07-00.31.15:670][304]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.31.15:671][304]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] CANT PLACE THERE
+[2022.01.07-00.31.15:673][304]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.31.15:673][304]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] CANT PLACE THERE
+[2022.01.07-00.31.15:675][304]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.31.15:675][304]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] CANT PLACE THERE
+[2022.01.07-00.31.15:676][304]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.31.15:677][304]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] CANT PLACE THERE
+[2022.01.07-00.31.15:678][304]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.31.15:678][304]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] CANT PLACE THERE
+[2022.01.07-00.31.15:678][304]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] LOAD COMPLETE
+[2022.01.07-00.31.15:679][304]LogLoad: Took 2.258335 seconds to LoadMap(/Game/TopDownBP/Maps/TopDownExampleMap)
+[2022.01.07-00.31.16:112][343]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable_1
+	Structure_Master_C /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Structure_Master_C_6
+	Function /Game/Blueprints/Actors/Structure/Structure_Master.Structure_Master_C:Initiate Unit:0230
+[2022.01.07-00.31.16:112][343]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Actors/KaijuPlayer_BP.KaijuPlayer_BP_C:ExecuteUbergraph_KaijuPlayer_BP
+	Function /Game/Blueprints/Actors/KaijuPlayer_BP.KaijuPlayer_BP_C:GenerateBuildingHeight
+	Function /Game/Blueprints/Actors/Structure/Structure_Master.Structure_Master_C:Initiate Unit
+
+[2022.01.07-00.31.16:113][343]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable_1
+	Structure_Master_C /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Structure_Master_C_17
+	Function /Game/Blueprints/Actors/Structure/Structure_Master.Structure_Master_C:Initiate Unit:0230
+[2022.01.07-00.31.16:113][343]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Actors/KaijuPlayer_BP.KaijuPlayer_BP_C:ExecuteUbergraph_KaijuPlayer_BP
+	Function /Game/Blueprints/Actors/KaijuPlayer_BP.KaijuPlayer_BP_C:GenerateBuildingHeight
+	Function /Game/Blueprints/Actors/Structure/Structure_Master.Structure_Master_C:Initiate Unit
+
+[2022.01.07-00.31.19:702][849]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] UNIT BOUGHT!
+[2022.01.07-00.31.19:705][849]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.31.19:706][849]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 false -  2
+[2022.01.07-00.31.23:318][408]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] UNIT BOUGHT!
+[2022.01.07-00.31.23:320][408]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.31.23:320][408]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 true -  3
+[2022.01.07-00.31.23:320][408]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.31.23:320][408]LogBlueprintUserMessages: [Kaiju_Master_C_3] HEAL
+[2022.01.07-00.31.23:321][408]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 2 false -  1
+[2022.01.07-00.31.48:806][  3]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.31.48:806][  3]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.31.50:780][252]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.31.50:781][252]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.31.52:931][506]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.31.52:931][506]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.31.54:212][658]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.31.54:909][740]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.31.54:909][740]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.31.56:187][898]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.31.57:054][999]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.31.57:056][999]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.31.57:236][ 19]LogBlueprintUserMessages: [Vehicle_Master_C_2] ATTACK
+[2022.01.07-00.31.58:336][143]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.31.59:031][227]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.31.59:232][254]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.31.59:233][254]LogBlueprintUserMessages: [Vehicle_Master_C_2] ATTACK
+[2022.01.07-00.31.59:461][281]LogBlueprintUserMessages: [Kaiju_Master_C_3] EVADING LEAP
+[2022.01.07-00.31.59:742][312]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.31.59:742][312]LogBlueprintUserMessages: [Vehicle_Master_C_2] ATTACK
+[2022.01.07-00.32.00:308][375]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.00:607][408]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.00:793][429]LogBlueprintUserMessages: [Kaiju_Master_C_1] POISON FUMES ON
+[2022.01.07-00.32.01:294][484]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.32.01:542][516]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.32.01:741][542]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.32.02:457][635]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.02:543][646]LogBlueprintUserMessages: [Vehicle_Master_C_0] STUNNED
+[2022.01.07-00.32.02:543][646]LogBlueprintUserMessages: [Vehicle_Master_C_2] STUNNED
+[2022.01.07-00.32.05:406][ 19]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.05:737][ 62]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.32.06:788][201]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.32.06:806][203]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.06:806][203]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.07:230][259]LogBlueprintUserMessages: [Vehicle_Master_C_2] ATTACK
+[2022.01.07-00.32.07:380][278]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.07:738][325]LogBlueprintUserMessages: [Vehicle_Master_C_2] ATTACK
+[2022.01.07-00.32.08:405][413]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.08:793][464]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.32.09:236][523]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.32.09:410][546]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.09:741][589]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.32.10:291][662]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.32.10:383][674]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.11:296][795]LogBlueprintUserMessages: [Vehicle_Master_C_0] STUNNED
+[2022.01.07-00.32.11:384][805]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.12:523][951]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.13:529][ 83]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.14:204][173]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.14:503][213]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.15:513][347]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.16:178][435]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.16:655][499]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.17:454][610]LogBlueprintUserMessages: [Kaiju_Master_C_3] EVADING LEAP
+[2022.01.07-00.32.18:327][734]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.18:599][772]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.19:790][936]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.32.20:292][  8]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.32.20:293][  8]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.32.20:307][ 10]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.20:804][ 81]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.21:404][166]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.23:008][395]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.23:378][448]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.23:407][452]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.23:741][499]LogBlueprintUserMessages: [Vehicle_Master_C_1] ATTACK
+[2022.01.07-00.32.24:630][626]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.32.24:981][676]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.25:296][721]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.32.25:380][733]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.25:528][754]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.25:741][784]LogBlueprintUserMessages: [Vehicle_Master_C_1] ATTACK
+[2022.01.07-00.32.25:963][815]LogBlueprintUserMessages: [Kaiju_Master_C_3] EVADING LEAP
+[2022.01.07-00.32.27:005][967]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.27:130][984]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.27:504][ 37]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.27:742][ 71]LogBlueprintUserMessages: [Vehicle_Master_C_1] ATTACK
+[2022.01.07-00.32.28:003][109]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.28:980][251]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.29:044][260]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.32.29:655][347]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.29:740][358]LogBlueprintUserMessages: [Vehicle_Master_C_1] ATTACK
+[2022.01.07-00.32.29:976][391]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.30:047][401]LogBlueprintUserMessages: [Vehicle_Master_C_1] STUNNED
+[2022.01.07-00.32.31:129][550]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.31:608][601]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.31:626][603]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.32:625][732]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.32.32:793][755]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.32.33:103][797]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.33:294][823]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.32.33:583][863]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.33:776][890]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.33:964][916]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.32.34:292][960]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] YOU WIN
+[2022.01.07-00.32.34:403][975]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.34:629][  5]LogBlueprintUserMessages: [Kaiju_Master_C_3] EVADING LEAP
+[2022.01.07-00.32.35:731][139]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.35:806][148]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.36:381][216]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.37:782][386]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.38:010][412]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.38:796][508]LogBlueprintUserMessages: [Kaiju_Master_C_1] ATTACK
+[2022.01.07-00.32.39:407][581]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.39:925][640]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.39:986][647]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.32.40:536][714]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.32.40:633][726]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.32.41:296][811]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.32.41:376][822]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.41:904][887]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.32.41:962][894]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.32.42:628][981]LogBlueprintUserMessages: [Kaiju_Master_C_3] ATTACK
+[2022.01.07-00.32.42:814][  6]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] UNIT BOUGHT!
+[2022.01.07-00.32.42:816][  6]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.32.42:816][  6]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 true -  3
+[2022.01.07-00.32.42:816][  6]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.32.42:816][  6]LogBlueprintUserMessages: [Kaiju_Master_C_2] HEAL
+[2022.01.07-00.32.42:817][  6]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 2 false -  1
+[2022.01.07-00.32.43:295][ 71]LogBlueprintUserMessages: [Kaiju_Master_C_3] EVADING LEAP
+[2022.01.07-00.32.43:525][100]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.32.43:962][157]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] LOAD COMPLETE
+[2022.01.07-00.32.43:963][157]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap
+[2022.01.07-00.32.43:963][157]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap
+[2022.01.07-00.32.43:963][157]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/TopDownExampleMap
+[2022.01.07-00.32.43:966][157]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.07-00.32.43:969][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.07-00.32.44:005][157]LogAudio: Display: Waited 35.135799 ms for audio thread.
+[2022.01.07-00.32.44:005][157]LogAudio: Display: Waited 35.731701 ms for audio thread.
+[2022.01.07-00.32.44:029][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.07-00.32.44:069][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.01.07-00.32.46:138][157]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2022.01.07-00.32.46:139][157]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2022.01.07-00.32.46:139][157]LogLoad: Game class is 'KaijuGameMode_C'
+[2022.01.07-00.32.46:174][157]LogWorld: Bringing World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2022.01.07-00.32.46
+[2022.01.07-00.32.46:174][157]LogWorld: Bringing up level for play took: 0.034254
+[2022.01.07-00.32.46:184][157]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.32.46:184][157]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] CANT PLACE THERE
+[2022.01.07-00.32.46:186][157]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.32.46:186][157]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] CANT PLACE THERE
+[2022.01.07-00.32.46:188][157]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.32.46:188][157]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] CANT PLACE THERE
+[2022.01.07-00.32.46:189][157]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.32.46:189][157]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] CANT PLACE THERE
+[2022.01.07-00.32.46:189][157]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] LOAD COMPLETE
+[2022.01.07-00.32.46:190][157]LogLoad: Took 2.227354 seconds to LoadMap(/Game/TopDownBP/Maps/TopDownExampleMap)
+[2022.01.07-00.32.46:632][192]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable_1
+	Structure_Master_C /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Structure_Master_C_6
+	Function /Game/Blueprints/Actors/Structure/Structure_Master.Structure_Master_C:Initiate Unit:0230
+[2022.01.07-00.32.46:632][192]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Actors/KaijuPlayer_BP.KaijuPlayer_BP_C:ExecuteUbergraph_KaijuPlayer_BP
+	Function /Game/Blueprints/Actors/KaijuPlayer_BP.KaijuPlayer_BP_C:GenerateBuildingHeight
+	Function /Game/Blueprints/Actors/Structure/Structure_Master.Structure_Master_C:Initiate Unit
+
+[2022.01.07-00.32.58:538][934]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] UNIT BOUGHT!
+[2022.01.07-00.32.58:541][934]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.32.58:541][934]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 true -  3
+[2022.01.07-00.32.58:541][934]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.32.58:541][934]LogBlueprintUserMessages: [Kaiju_Master_C_1] HEAL
+[2022.01.07-00.32.58:541][934]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 2 false -  1
+[2022.01.07-00.33.10:954][764]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] UNIT BOUGHT!
+[2022.01.07-00.33.10:957][764]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Moves_16_7591264B46A0D7D3EA1015BE2D0B5169' of length 1 in '/Game/Blueprints/Data/Kaiju_Struct.Kaiju_Struct'!
+[2022.01.07-00.33.10:957][764]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 false -  1
+[2022.01.07-00.33.11:586][849]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] Actor Picked Up
+[2022.01.07-00.33.12:275][950]LogBlueprintUserMessages: [KaijuPlayer_BP_C_0] FUSION RANK 1 false -  1
+[2022.01.07-00.33.15:272][361]LogBlueprintUserMessages: [Kaiju_Master_C_5] FOOTQUAKE
+[2022.01.07-00.33.15:319][366]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.33.15:319][366]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.33.15:320][366]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.33.17:248][614]LogBlueprintUserMessages: [Kaiju_Master_C_5] FOOTQUAKE
+[2022.01.07-00.33.17:293][620]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.33.17:293][620]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.33.17:293][620]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.33.19:396][882]LogBlueprintUserMessages: [Kaiju_Master_C_5] FOOTQUAKE
+[2022.01.07-00.33.19:435][887]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.33.19:435][887]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.33.19:436][887]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.33.21:415][139]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.33.21:416][139]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.33.21:543][155]LogBlueprintUserMessages: [Kaiju_Master_C_5] ATTACK
+[2022.01.07-00.33.22:078][221]LogBlueprintUserMessages: [Kaiju_Master_C_5] FOOTQUAKE
+[2022.01.07-00.33.22:303][248]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.33.22:811][312]LogBlueprintUserMessages: [Kaiju_Master_C_2] ATTACK
+[2022.01.07-00.33.23:561][408]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.33.23:562][408]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.33.23:667][421]LogBlueprintUserMessages: [Vehicle_Master_C_1] ATTACK
+[2022.01.07-00.33.23:877][446]LogBlueprintUserMessages: [Kaiju_Master_C_5] FOOTQUAKE
+[2022.01.07-00.33.25:305][618]LogBlueprintUserMessages: [Kaiju_Master_C_2] FIERCE SLAM
+[2022.01.07-00.33.25:544][642]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.33.25:663][655]LogBlueprintUserMessages: [Vehicle_Master_C_1] ATTACK
+[2022.01.07-00.33.25:682][657]LogBlueprintUserMessages: [Kaiju_Master_C_5] FOOTQUAKE
+[2022.01.07-00.33.26:299][722]LogBlueprintUserMessages: [Kaiju_Master_C_3] EVADING LEAP
+[2022.01.07-00.33.26:301][722]LogBlueprintUserMessages: [Infantry_Master_C_1] STUNNED
+[2022.01.07-00.33.26:914][789]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.33.27:326][834]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.33.27:654][869]LogBlueprintUserMessages: [Kaiju_Master_C_5] FOOTQUAKE
+[2022.01.07-00.33.27:664][870]LogBlueprintUserMessages: [Vehicle_Master_C_1] ATTACK
+[2022.01.07-00.33.27:912][897]LogBlueprintUserMessages: [Kaiju_Master_C_5] ATTACK
+[2022.01.07-00.33.27:922][898]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.33.28:164][925]LogBlueprintUserMessages: [Vehicle_Master_C_1] ATTACK
+[2022.01.07-00.33.28:236][933]LogBlueprintUserMessages: [Kaiju_Master_C_5] RAD BEAM
+[2022.01.07-00.33.28:888][  7]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.33.29:300][ 57]LogBlueprintUserMessages: [Kaiju_Master_C_1] POISON FUMES ON
+[2022.01.07-00.33.29:300][ 57]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.33.29:898][127]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.33.30:166][159]LogBlueprintUserMessages: [Vehicle_Master_C_1] ATTACK
+[2022.01.07-00.33.30:166][159]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.33.31:032][262]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.33.31:441][311]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.33.32:046][384]LogBlueprintUserMessages: [Kaiju_Master_C_2] FOOTQUAKE
+[2022.01.07-00.33.32:168][396]LogBlueprintUserMessages: [Vehicle_Master_C_0] ATTACK
+[2022.01.07-00.33.33:012][484]LogBlueprintUserMessages: [Kaiju_Master_C_1] FOOTQUAKE
+[2022.01.07-00.33.33:424][532]LogBlueprintUserMessages: [Kaiju_Master_C_3] FOOTQUAKE
+[2022.01.07-00.33.33:666][563]LogBlueprintUserMessages: [Vehicle_Master_C_1] ATTACK
+[2022.01.07-00.33.33:803][581]LogWindowsDesktop: Alt-F4 pressed!
+[2022.01.07-00.33.33:812][581]LogSlate: Window 'Project_Auto_Kaiju (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.01.07-00.33.33:825][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.07-00.33.33:825][581]LogEngine: All Windows Closed
+[2022.01.07-00.33.33:825][581]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.01.07-00.33.33:826][581]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.01.07-00.33.33:826][582]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.01.07-00.33.33:827][582]LogInit: Display: PreExit Game.
+[2022.01.07-00.33.33:828][582]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/TopDownExampleMap
+[2022.01.07-00.33.33:829][582]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.07-00.33.33:834][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.07-00.33.34:523][582]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.01.07-00.33.34:523][582]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.01.07-00.33.34:523][582]LogAudio: Display: Audio Device unregistered from world 'TopDownExampleMap'.
+[2022.01.07-00.33.34:524][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.07-00.33.34:524][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.07-00.33.34:541][582]LogAudio: Display: Audio Device Manager Shutdown
+[2022.01.07-00.33.34:544][582]LogExit: Preparing to exit.
+[2022.01.07-00.33.34:544][582]LogMoviePlayer: Shutting down movie player
+[2022.01.07-00.33.34:550][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEAC2200] Windows
+[2022.01.07-00.33.34:550][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEAC2300] Default__DeviceProfile
+[2022.01.07-00.33.34:550][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA73700] WindowsNoEditor
+[2022.01.07-00.33.34:550][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEAC0900] WindowsServer
+[2022.01.07-00.33.34:550][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA70D00] WindowsClient
+[2022.01.07-00.33.34:550][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEAC3100] IOS
+[2022.01.07-00.33.34:550][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA71700] iPadAir
+[2022.01.07-00.33.34:550][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEAC1300] iPadAir2
+[2022.01.07-00.33.34:550][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17300] IPadPro
+[2022.01.07-00.33.34:550][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17400] iPadAir3
+[2022.01.07-00.33.34:550][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEAC3C00] iPadAir4
+[2022.01.07-00.33.34:550][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17700] iPadMini2
+[2022.01.07-00.33.34:550][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEAC0C00] iPadMini3
+[2022.01.07-00.33.34:550][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA15600] iPadMini4
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEAC2D00] iPadMini5
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4AC00] iPhone6
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4AD00] iPodTouch6
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17E00] iPhone7
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17F00] iPodTouch7
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4A700] iPhone5S
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17200] iPhone6Plus
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4BC00] iPhone6S
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA14100] iPhone6SPlus
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4A900] iPhone7Plus
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17C00] iPhoneSE
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4A800] iPhone8
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17800] iPhone8Plus
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA49F00] iPhoneX
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA15A00] iPhoneXS
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA48600] iPhoneXSMax
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA14A00] iPhoneXR
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4B200] iPhone11
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17100] iPhone11Pro
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA48700] iPhone11ProMax
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA14E00] iPhoneSE2
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA49C00] iPhone12Mini
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA15D00] iPhone12
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA49600] iPhone12Pro
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA16E00] iPhone12ProMax
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4A400] iPadPro105
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17B00] iPadPro129
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4BA00] iPadPro97
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA15900] iPadPro2_129
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA71400] iPad5
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4B500] iPad6
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA71D00] iPad7
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA48B00] iPad8
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA71200] iPadPro11
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4B600] iPadPro2_11
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA70400] iPadPro3_129
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4A300] iPadPro4_129
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA73F00] AppleTV
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA49E00] AppleTV4K
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA70800] TVOS
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA48C00] Mac
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA14F00] MacClient
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA73400] MacNoEditor
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA16500] MacServer
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA48500] Linux
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17500] LinuxAArch64
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4A200] LinuxNoEditor
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA16800] LinuxAArch64NoEditor
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4AA00] LinuxClient
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17000] LinuxAArch64Client
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA49D00] LinuxServer
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA16200] LinuxAArch64Server
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA48400] Android
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA15E00] Android_Low
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA49000] Android_Mid
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA16F00] Android_High
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA49100] Android_Default
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA14D00] Android_Adreno4xx
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4B100] Android_Adreno5xx_Low
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA15000] Android_Adreno5xx
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4B800] Android_Adreno6xx
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17900] Android_Adreno6xx_Vulkan
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA48D00] Android_Mali_T6xx
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA16400] Android_Mali_T7xx
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4B400] Android_Mali_T8xx
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA15300] Android_Mali_G71
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA49A00] Android_Mali_G72
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17A00] Android_Mali_G72_Vulkan
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA49200] Android_Mali_G76
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA16600] Android_Mali_G76_Vulkan
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4A000] Android_Mali_G77
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA14700] Android_Mali_G77_Vulkan
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA48100] Android_Vulkan_SM5
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA15F00] Android_PowerVR_G6xxx
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA49B00] Android_PowerVR_GT7xxx
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA15200] Android_PowerVR_GE8xxx
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4BE00] Android_PowerVR_GM9xxx
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA17D00] Android_PowerVR_GM9xxx_Vulkan
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA4A100] Android_TegraK1
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA14300] Android_Unknown_Vulkan
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA48E00] Lumin
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA15400] Lumin_Desktop
+[2022.01.07-00.33.34:551][582]LogDeviceProfile: Device profile begin destroy: [0000017CBEA48800] HoloLens
+[2022.01.07-00.33.34:561][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.07-00.33.34:604][582]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.01.07-00.33.34:609][582]LogExit: Game engine shut down
+[2022.01.07-00.33.34:685][582]LogExit: Object subsystem successfully closed.
+[2022.01.07-00.33.34:697][582]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module SequenceRecorder (496)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module AutomationController (494)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module AutomationWorker (492)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module Voice (490)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module AIModule (488)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module GameplayDebugger (487)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module AITestSuite (485)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module NavigationSystem (483)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module AnimGraph (480)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module OculusMR (478)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (476)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module WebMMedia (474)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (472)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (470)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (468)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (466)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (464)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (462)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module PlanarCut (460)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module CharacterAI (458)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module SessionServices (456)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (454)
+[2022.01.07-00.33.34:706][582]LogModuleManager: Shutting down and abandoning module LiveCoding (452)
+[2022.01.07-00.33.34:707][582]LogModuleManager: Shutting down and abandoning module LevelSequence (450)
+[2022.01.07-00.33.34:707][582]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (448)
+[2022.01.07-00.33.34:707][582]LogModuleManager: Shutting down and abandoning module MovieScene (446)
+[2022.01.07-00.33.34:707][582]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (444)
+[2022.01.07-00.33.34:707][582]LogModuleManager: Shutting down and abandoning module PortalServices (442)
+[2022.01.07-00.33.34:707][582]LogModuleManager: Shutting down and abandoning module PortalRpc (440)
+[2022.01.07-00.33.34:707][582]LogModuleManager: Shutting down and abandoning module MessagingRpc (438)
+[2022.01.07-00.33.34:707][582]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (436)
+[2022.01.07-00.33.34:707][582]LogModuleManager: Shutting down and abandoning module AudioMixerCore (435)
+[2022.01.07-00.33.34:707][582]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (432)
+[2022.01.07-00.33.34:707][582]LogModuleManager: Shutting down and abandoning module ProfilerService (430)
+[2022.01.07-00.33.34:719][582]LogModuleManager: Shutting down and abandoning module TaskGraph (428)
+[2022.01.07-00.33.34:719][582]LogModuleManager: Shutting down and abandoning module OculusInput (426)
+[2022.01.07-00.33.34:719][582]LogModuleManager: Shutting down and abandoning module Synthesis (424)
+[2022.01.07-00.33.34:719][582]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (422)
+[2022.01.07-00.33.34:719][582]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (420)
+[2022.01.07-00.33.34:719][582]LogModuleManager: Shutting down and abandoning module GooglePAD (418)
+[2022.01.07-00.33.34:719][582]LogModuleManager: Shutting down and abandoning module EditableMesh (416)
+[2022.01.07-00.33.34:719][582]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (414)
+[2022.01.07-00.33.34:719][582]LogModuleManager: Shutting down and abandoning module CableComponent (412)
+[2022.01.07-00.33.34:719][582]LogModuleManager: Shutting down and abandoning module AudioCapture (410)
+[2022.01.07-00.33.34:719][582]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (409)
+[2022.01.07-00.33.34:719][582]LogModuleManager: Shutting down and abandoning module AssetTags (406)
+[2022.01.07-00.33.34:719][582]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (404)
+[2022.01.07-00.33.34:719][582]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (402)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module AppleImageUtils (400)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module AndroidPermission (398)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (396)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module TemplateSequence (394)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module MediaCompositing (392)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module ImgMedia (390)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (388)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (386)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module MotoSynth (378)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module MeshConversion (376)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module DynamicMesh (374)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (372)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module GeometricObjects (370)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (368)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (367)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (363)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module GeometryCache (360)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (359)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module ChaosNiagara (356)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (355)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module AutomationUtils (352)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module BackChannel (350)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (348)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module HotReload (347)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (346)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (342)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module UObjectPlugin (340)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (338)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (336)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module SourceControl (335)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (332)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module SoundFields (330)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module SignificanceManager (328)
+[2022.01.07-00.33.34:720][582]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (326)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (324)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (322)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (318)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (316)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (314)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module ActorSequence (312)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module UdpMessaging (310)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module TcpMessaging (308)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (306)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (304)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (302)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (300)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (298)
+[2022.01.07-00.33.34:721][582]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (296)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (294)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (292)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (290)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module MagicLeapController (288)
+[2022.01.07-00.33.34:721][582]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (286)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module MagicLeapAR (284)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module AugmentedReality (283)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (280)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module FacialAnimation (278)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (276)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (272)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module Niagara (270)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module SignalProcessing (269)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module NiagaraEditor (267)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module NiagaraCore (264)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (262)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module AnimationSharing (260)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (258)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (256)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module Paper2D (254)
+[2022.01.07-00.33.34:721][582]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (252)
+[2022.01.07-00.33.34:722][582]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (250)
+[2022.01.07-00.33.34:722][582]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (248)
+[2022.01.07-00.33.34:722][582]LogModuleManager: Shutting down and abandoning module PacketHandler (246)
+[2022.01.07-00.33.34:722][582]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (244)
+[2022.01.07-00.33.34:722][582]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (242)
+[2022.01.07-00.33.34:722][582]LogModuleManager: Shutting down and abandoning module MediaAssets (240)
+[2022.01.07-00.33.34:722][582]LogModuleManager: Shutting down and abandoning module Overlay (238)
+[2022.01.07-00.33.34:722][582]LogModuleManager: Shutting down and abandoning module OverlayEditor (237)
+[2022.01.07-00.33.34:722][582]LogModuleManager: Shutting down and abandoning module VREditor (234)
+[2022.01.07-00.33.34:722][582]LogModuleManager: Shutting down and abandoning module StringTableEditor (232)
+[2022.01.07-00.33.34:722][582]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (230)
+[2022.01.07-00.33.34:722][582]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (228)
+[2022.01.07-00.33.34:723][582]LogModuleManager: Shutting down and abandoning module FunctionalTesting (226)
+[2022.01.07-00.33.34:723][582]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (224)
+[2022.01.07-00.33.34:723][582]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (223)
+[2022.01.07-00.33.34:723][582]LogModuleManager: Shutting down and abandoning module UMG (220)
+[2022.01.07-00.33.34:723][582]LogModuleManager: Shutting down and abandoning module UMGEditor (219)
+[2022.01.07-00.33.34:723][582]LogModuleManager: Shutting down and abandoning module Sequencer (218)
+[2022.01.07-00.33.34:723][582]LogModuleManager: Shutting down and abandoning module MessageLog (215)
+[2022.01.07-00.33.34:723][582]LogModuleManager: Shutting down and abandoning module SlateReflector (210)
+[2022.01.07-00.33.34:723][582]LogModuleManager: Shutting down and abandoning module Slate (208)
+[2022.01.07-00.33.34:723][582]LogModuleManager: Shutting down and abandoning module SlateCore (206)
+[2022.01.07-00.33.34:724][582]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (204)
+[2022.01.07-00.33.34:724][582]LogModuleManager: Shutting down and abandoning module UnrealEd (202)
+[2022.01.07-00.33.34:724][582]LogModuleManager: Shutting down and abandoning module MRMesh (200)
+[2022.01.07-00.33.34:724][582]LogModuleManager: Shutting down and abandoning module Messaging (198)
+[2022.01.07-00.33.34:724][582]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2022.01.07-00.33.34:724][582]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2022.01.07-00.33.34:724][582]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2022.01.07-00.33.34:724][582]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2022.01.07-00.33.34:724][582]LogModuleManager: Shutting down and abandoning module Core (188)
+[2022.01.07-00.33.34:724][582]LogModuleManager: Shutting down and abandoning module MaterialEditor (186)
+[2022.01.07-00.33.34:724][582]LogModuleManager: Shutting down and abandoning module MovieSceneTools (184)
+[2022.01.07-00.33.34:724][582]LogModuleManager: Shutting down and abandoning module EditorStyle (183)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module KismetCompiler (180)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module MeshBuilder (178)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module MeshUtilities (176)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (175)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (174)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (173)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (171)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (169)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (167)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module MaterialBaking (163)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (158)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (156)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2022.01.07-00.33.34:725][582]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (137)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (121)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (119)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (117)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (115)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module PhysXCooking (108)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module Chaos (106)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (104)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (103)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module AVEncoder (102)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2022.01.07-00.33.34:726][582]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2022.01.07-00.33.34:727][582]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2022.01.07-00.33.34:727][582]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2022.01.07-00.33.34:746][582]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2022.01.07-00.33.34:746][582]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.01.07-00.33.34:758][582]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2022.01.07-00.33.34:759][582]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.01.07-00.33.34:761][582]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.01.07-00.33.34:761][582]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2022.01.07-00.33.34:761][582]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.01.07-00.33.34:761][582]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.01.07-00.33.34:761][582]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.01.07-00.33.34:761][582]LogModuleManager: Shutting down and abandoning module VariantManagerContent (60)
+[2022.01.07-00.33.34:761][582]LogModuleManager: Shutting down and abandoning module DatasmithContent (58)
+[2022.01.07-00.33.34:762][582]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2022.01.07-00.33.34:762][582]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (54)
+[2022.01.07-00.33.34:762][582]LogModuleManager: Shutting down and abandoning module NiagaraShader (52)
+[2022.01.07-00.33.34:762][582]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.01.07-00.33.34:762][582]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.01.07-00.33.34:762][582]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.01.07-00.33.34:762][582]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.01.07-00.33.34:762][582]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.01.07-00.33.34:762][582]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.01.07-00.33.34:762][582]LogXGEController: Cleaning working directory: C:/Users/Thai/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.01.07-00.33.34:763][582]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.01.07-00.33.34:764][582]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.01.07-00.33.34:764][582]LogD3D11RHI: Shutdown
+[2022.01.07-00.33.34:764][582]LogD3D11RHI: CleanupD3DDevice
+[2022.01.07-00.33.34:771][582]LogExit: Exiting.
+[2022.01.07-00.33.34:786][582]Log file closed, 01/07/22 00:33:34
