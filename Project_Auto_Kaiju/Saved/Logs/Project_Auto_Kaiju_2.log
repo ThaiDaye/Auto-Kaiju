@@ -34106,3 +34106,964 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.08-17.50.39:802][351]AssetCheck: New page: Asset Save: KaijuPlayer_BP
 [2022.01.08-17.50.39:803][351]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/KaijuPlayer_BP.KaijuPlayer_BP
 [2022.01.08-17.50.48:523][588]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.01.08-17.52.44:045][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.01.08-17.52.46:193][795]LogMainFrame: Project requires temp target (SteamVR plugin is disabled)
+[2022.01.08-17.52.46:211][795]LogLauncherProfile: Unable to use promoted target - F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Binaries/Win64/UE4Game.target does not exist.
+[2022.01.08-17.52.46:816][795]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2022.01.08-17.52.46:816][795]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Project_Auto_Kaiju.uproject BuildCookRun -nocompileeditor -installed -nop4 -project=F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Project_Auto_Kaiju.uproject -cook -stage -archive -archivedirectory=F:/Documents/UnrealEngineBuildsHome/AutoFightingKaiju_Build -package -ue4exe=G:\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -build -clientconfig=Development -utf8output
+[2022.01.08-17.52.50:048][162]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Project_Auto_Kaiju.uproject
+[2022.01.08-17.52.50:407][205]UATHelper: Packaging (Windows (64-bit)): Project_Auto_Kaiju.uproject requires a temporary target.cs to be generated (SteamVR plugin is disabled)
+[2022.01.08-17.52.50:983][274]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2022.01.08-17.52.51:007][277]UATHelper: Packaging (Windows (64-bit)): Running: G:\UE_4.26\Engine\Binaries\DotNET\UnrealBuildTool.exe Project_Auto_Kaiju Win64 Development -Project=F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Project_Auto_Kaiju.uproject  F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Project_Auto_Kaiju.uproject -NoUBTMakefiles  -remoteini="F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju" -skipdeploy -Manifest=F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Intermediate\Build\Manifest.xml -NoHotReload -log="C:\Users\Thai\AppData\Roaming\Unreal Engine\AutomationTool\Logs\G+UE_4.26\UBT-Project_Auto_Kaiju-Win64-Development.txt"
+[2022.01.08-17.52.51:738][355]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build (F:\GitHub\Auto-Kaiju).
+[2022.01.08-17.53.00:728][405]UATHelper: Packaging (Windows (64-bit)):   Writing manifest to F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Intermediate\Build\Manifest.xml
+[2022.01.08-17.53.00:925][428]UATHelper: Packaging (Windows (64-bit)):   Target is up to date
+[2022.01.08-17.53.00:951][431]UATHelper: Packaging (Windows (64-bit)):   Total execution time: 9.83 seconds
+[2022.01.08-17.53.01:028][440]UATHelper: Packaging (Windows (64-bit)): Took 10.0200883s to run UnrealBuildTool.exe, ExitCode=0
+[2022.01.08-17.53.01:062][444]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND COMPLETED **********
+[2022.01.08-17.53.01:070][445]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2022.01.08-17.53.01:079][446]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Project_Auto_Kaiju.uproject
+[2022.01.08-17.53.01:120][451]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is G:\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2022.01.08-17.53.01.txt
+[2022.01.08-17.53.01:120][451]UATHelper: Packaging (Windows (64-bit)): Running: G:\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Project_Auto_Kaiju.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog=G:\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2022.01.08-17.53.01.txt -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2022.01.08-17.53.16:674][308]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: Project_Auto_Kaiju
+[2022.01.08-17.53.21:637][886]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 16 GB [17124519936 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.08-17.53.22:669][  7]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.08-17.53.22:751][ 17]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.08-17.53.22:751][ 17]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.08-17.53.22:751][ 17]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.08-17.53.22:751][ 17]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.08-17.53.22:751][ 17]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.08-17.53.22:751][ 17]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.08-17.53.22:751][ 17]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.08-17.53.22:751][ 17]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.08-17.53.22:751][ 17]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.08-17.53.22:751][ 17]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.08-17.53.22:926][ 38]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.08-17.53.22:926][ 38]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.08-17.53.22:986][ 45]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.08-17.53.23:044][ 52]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.08-17.53.23:103][ 59]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.08-17.53.23:153][ 65]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.08-17.53.23:221][ 73]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.08-17.53.23:312][ 84]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.08-17.53.23:379][ 92]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.08-17.53.23:488][105]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.08-17.53.23:488][105]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.08-17.53.23:556][113]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.08-17.53.23:613][120]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.08-17.53.23:673][127]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.08-17.53.23:705][131]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.08-17.53.23:738][135]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.08-17.53.23:738][135]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.08-17.53.23:808][143]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.08-17.53.23:923][157]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.08-17.53.23:949][160]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.08-17.53.23:974][163]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.08-17.53.23:975][163]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2022.01.08-17.53.24:242][195]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.08-17.53.26:602][476]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.08-17.53.27:437][575]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.08-17.53.27:552][588]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Thai/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.01.08-17.53.27:576][591]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.08-17.53.27:593][593]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/Thai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.11ms. RandomReadSpeed=725.07MBs, RandomWriteSpeed=79.98MBs. Assigned SpeedClass 'Local'
+[2022.01.08-17.53.30:310][917]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2022.01.08-17.53.30:310][917]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2022.01.08-17.53.30:310][917]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2022.01.08-17.53.30:310][917]PackagingResults: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2022.01.08-17.53.30:310][917]PackagingResults: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2022.01.08-17.53.30:310][917]PackagingResults: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2022.01.08-17.53.35:732][564]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.08-17.53.35:732][564]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.08-17.53.38:910][941]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.08-17.53.38:911][941]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2022.01.08-17.53.38:911][941]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2022.01.08-17.53.39:292][986]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2022.01.08-17.53.39:361][994]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2022.01.08-17.53.39:417][  1]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.127 seconds for platforms WindowsNoEditor
+[2022.01.08-17.53.42:879][392]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Unable to find package for cooking /Game/TopDownBP/Character/TopDownSkeletalMesh
+[2022.01.08-17.53.42:879][392]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Unable to find package for cooking /Game/TopDownBP/Character/TopDownIdleRun
+[2022.01.08-17.53.42:880][392]PackagingResults: Warning: Unable to find package for cooking /Game/TopDownBP/Character/TopDownSkeletalMesh
+[2022.01.08-17.53.42:880][392]PackagingResults: Warning: Unable to find package for cooking /Game/TopDownBP/Character/TopDownIdleRun
+[2022.01.08-17.53.42:888][393]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 665 Total 665
+[2022.01.08-17.53.42:896][394]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=164, VirtualMemory=434MiB
+[2022.01.08-17.53.44:814][616]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 162 Packages Remain 687 Total 849
+[2022.01.08-17.53.46:618][831]UATHelper: Packaging (Windows (64-bit)):   LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Data/KaijuGameInstance.KaijuGameInstance_C:UnitBoardData.UnitBoardData'. Unknown structure.
+[2022.01.08-17.53.46:618][831]PackagingResults: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Data/KaijuGameInstance.KaijuGameInstance_C:UnitBoardData.UnitBoardData'. Unknown structure.
+[2022.01.08-17.53.46:627][832]UATHelper: Packaging (Windows (64-bit)):   LogClass: Warning: Property UnitBoardData of UnitBoardData has a struct type mismatch (tag FallbackStruct != prop UnitBoardData_Struct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.53.46:627][832]PackagingResults: Warning: Property UnitBoardData of UnitBoardData has a struct type mismatch (tag FallbackStruct != prop UnitBoardData_Struct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.53.46:891][863]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 202 Packages Remain 647 Total 849
+[2022.01.08-17.53.47:835][974]UATHelper: Packaging (Windows (64-bit)):   LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/UnitHover_Widget.UnitHover_Widget_C:Data'. Unknown structure.
+[2022.01.08-17.53.47:835][974]UATHelper: Packaging (Windows (64-bit)):   LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/UnitHover_Widget.UnitHover_Widget_C:ExecuteUbergraph_UnitHover_Widget:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2022.01.08-17.53.47:835][974]PackagingResults: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/UnitHover_Widget.UnitHover_Widget_C:Data'. Unknown structure.
+[2022.01.08-17.53.47:835][974]PackagingResults: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/UnitHover_Widget.UnitHover_Widget_C:ExecuteUbergraph_UnitHover_Widget:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2022.01.08-17.53.47:908][982]UATHelper: Packaging (Windows (64-bit)):   LogClass: Warning: Property Data of Data has a struct type mismatch (tag STRUCT_REINST_Kaiju_Struct_18 != prop FallbackStruct) in package:  F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/UnitHover_Widget.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.53.47:908][982]PackagingResults: Warning: Property Data of Data has a struct type mismatch (tag STRUCT_REINST_Kaiju_Struct_18 != prop FallbackStruct) in package:  F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/UnitHover_Widget.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.53.50:089][243]UATHelper: Packaging (Windows (64-bit)):   LogClass: Warning: Property Data of Data has a struct type mismatch (tag FallbackStruct != prop Kaiju_Struct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.53.50:089][243]PackagingResults: Warning: Property Data of Data has a struct type mismatch (tag FallbackStruct != prop Kaiju_Struct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.53.50:356][275]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 265 Packages Remain 584 Total 849
+[2022.01.08-17.53.50:729][319]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material CharTemp_Material_master, compiling.
+[2022.01.08-17.53.50:797][327]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 325 Packages Remain 528 Total 853
+[2022.01.08-17.53.52:710][538]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 484 Packages Remain 365 Total 849
+[2022.01.08-17.53.56:437][969]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 486 Packages Remain 363 Total 849
+[2022.01.08-17.53.56:713][  2]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 488 Packages Remain 361 Total 849
+[2022.01.08-17.53.56:756][  7]UATHelper: Packaging (Windows (64-bit)):   LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/KaijuCard_Widget.KaijuCard_Widget_C:Data'. Unknown structure.
+[2022.01.08-17.53.56:756][  7]PackagingResults: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/KaijuCard_Widget.KaijuCard_Widget_C:Data'. Unknown structure.
+[2022.01.08-17.53.56:758][  7]UATHelper: Packaging (Windows (64-bit)):   LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/KaijuCard_Widget.KaijuCard_Widget_C:ExecuteUbergraph_KaijuCard_Widget:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2022.01.08-17.53.56:758][  7]UATHelper: Packaging (Windows (64-bit)):   LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/Kaiju_UI.Kaiju_UI_C:UnitMoveDataRef'. Unknown structure.
+[2022.01.08-17.53.56:758][  7]PackagingResults: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/KaijuCard_Widget.KaijuCard_Widget_C:ExecuteUbergraph_KaijuCard_Widget:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2022.01.08-17.53.56:759][  7]PackagingResults: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/Kaiju_UI.Kaiju_UI_C:UnitMoveDataRef'. Unknown structure.
+[2022.01.08-17.53.56:765][  8]UATHelper: Packaging (Windows (64-bit)):   LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/Kaiju_UI.Kaiju_UI_C:ExecuteUbergraph_Kaiju_UI:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2022.01.08-17.53.56:765][  8]UATHelper: Packaging (Windows (64-bit)):   LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/Kaiju_UI.Kaiju_UI_C:ExecuteUbergraph_Kaiju_UI:CallFunc_GetDataTableRowFromName_OutRow_1'. Unknown structure.
+[2022.01.08-17.53.56:765][  8]PackagingResults: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/Kaiju_UI.Kaiju_UI_C:ExecuteUbergraph_Kaiju_UI:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2022.01.08-17.53.56:765][  8]PackagingResults: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/Kaiju_UI.Kaiju_UI_C:ExecuteUbergraph_Kaiju_UI:CallFunc_GetDataTableRowFromName_OutRow_1'. Unknown structure.
+[2022.01.08-17.53.57:523][ 97]UATHelper: Packaging (Windows (64-bit)):   LogClass: Warning: Property UnitMoveDataRef of UnitMoveDataRef has a struct type mismatch (tag STRUCT_REINST_Kaiju_Struct_18 != prop FallbackStruct) in package:  F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/Kaiju_UI.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.53.57:523][ 97]UATHelper: Packaging (Windows (64-bit)):   LogClass: Warning: Property Data of Data has a struct type mismatch (tag STRUCT_REINST_Kaiju_Struct_18 != prop FallbackStruct) in package:  F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/KaijuCard_Widget.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.53.57:523][ 97]UATHelper: Packaging (Windows (64-bit)):   LogClass: Warning: Property UnitMoveDataRef of UnitMoveDataRef has a struct type mismatch (tag FallbackStruct != prop Kaiju_Struct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.53.57:523][ 97]UATHelper: Packaging (Windows (64-bit)):   LogClass: Warning: Property Data of Data has a struct type mismatch (tag FallbackStruct != prop Kaiju_Struct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.53.57:523][ 97]PackagingResults: Warning: Property UnitMoveDataRef of UnitMoveDataRef has a struct type mismatch (tag STRUCT_REINST_Kaiju_Struct_18 != prop FallbackStruct) in package:  F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/Kaiju_UI.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.53.57:523][ 97]PackagingResults: Warning: Property Data of Data has a struct type mismatch (tag STRUCT_REINST_Kaiju_Struct_18 != prop FallbackStruct) in package:  F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/KaijuCard_Widget.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.53.57:523][ 97]PackagingResults: Warning: Property UnitMoveDataRef of UnitMoveDataRef has a struct type mismatch (tag FallbackStruct != prop Kaiju_Struct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.53.57:523][ 97]PackagingResults: Warning: Property Data of Data has a struct type mismatch (tag FallbackStruct != prop Kaiju_Struct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.53.58:714][224]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 501 Packages Remain 349 Total 850
+[2022.01.08-17.54.01:251][515]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 517 Packages Remain 333 Total 850
+[2022.01.08-17.54.03:911][831]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 519 Packages Remain 331 Total 850
+[2022.01.08-17.54.05:973][ 72]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 548 Packages Remain 302 Total 850
+[2022.01.08-17.54.06:807][164]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 569 Packages Remain 281 Total 850
+[2022.01.08-17.54.08:808][372]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 585 Packages Remain 265 Total 850
+[2022.01.08-17.54.10:717][576]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 604 Packages Remain 246 Total 850
+[2022.01.08-17.54.12:711][784]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 622 Packages Remain 228 Total 850
+[2022.01.08-17.54.14:710][ 16]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 631 Packages Remain 219 Total 850
+[2022.01.08-17.54.14:710][ 16]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=649, VirtualMemory=888MiB
+[2022.01.08-17.54.16:709][206]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2022.01.08-17.54.16:709][206]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2022.01.08-17.54.16:709][206]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2022.01.08-17.54.16:709][206]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2022.01.08-17.54.16:709][206]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2022.01.08-17.54.16:719][207]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2022.01.08-17.54.16:719][207]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2022.01.08-17.54.16:719][207]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2022.01.08-17.54.16:719][207]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2022.01.08-17.54.16:719][207]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2022.01.08-17.54.16:719][207]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 638 Packages Remain 212 Total 850
+[2022.01.08-17.54.20:548][614]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 657 Packages Remain 193 Total 850
+[2022.01.08-17.54.21:231][691]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.01.08-17.54.21:256][694]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.01.08-17.54.21:828][761]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureF60039EB445BD313D9FB3B83A10248ED (BGRA8, 128X128)
+[2022.01.08-17.54.21:909][770]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 700 Packages Remain 150 Total 850
+[2022.01.08-17.54.22:719][847]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 736 Packages Remain 117 Total 853
+[2022.01.08-17.54.25:855][168]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 752 Packages Remain 101 Total 853
+[2022.01.08-17.54.27:010][299]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 837 Packages Remain 17 Total 854
+[2022.01.08-17.54.28:707][462]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 852 Packages Remain 1 Total 853
+[2022.01.08-17.54.34:708][ 72]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 852 Packages Remain 1 Total 853
+[2022.01.08-17.54.40:710][696]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 852 Packages Remain 1 Total 853
+[2022.01.08-17.54.46:708][300]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 852 Packages Remain 1 Total 853
+[2022.01.08-17.54.46:708][300]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=856, VirtualMemory=983MiB
+[2022.01.08-17.54.52:713][947]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 852 Packages Remain 1 Total 853
+[2022.01.08-17.54.58:710][614]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 852 Packages Remain 1 Total 853
+[2022.01.08-17.55.04:711][282]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 852 Packages Remain 1 Total 853
+[2022.01.08-17.55.10:713][977]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 852 Packages Remain 1 Total 853
+[2022.01.08-17.55.13:020][251]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 853 Packages Remain 0 Total 853
+[2022.01.08-17.55.13:020][251]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=856, VirtualMemory=984MiB
+[2022.01.08-17.55.13:020][251]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2022.01.08-17.55.13:044][254]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2022.01.08-17.55.13:060][256]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2022.01.08-17.55.13:127][264]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2022.01.08-17.55.13:127][264]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2022.01.08-17.55.13:127][264]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2022.01.08-17.55.13:569][317]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2022.01.08-17.55.13:619][323]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 837, size is 353.01kb
+[2022.01.08-17.55.13:619][323]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.01.08-17.55.13:927][360]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.01.08-17.55.13:936][361]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Code Stats: PCD3D_SM5
+[2022.01.08-17.55.13:936][361]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.08-17.55.13:936][361]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders: 4960, Total Shaders: 5709, Unique Shadermaps: 352
+[2022.01.08-17.55.13:936][361]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders Size: 11.86mb, Total Shader Size: 13.05mb
+[2022.01.08-17.55.13:936][361]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.08-17.55.13:936][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 38.974871s total time 95.029373
+[2022.01.08-17.55.13:936][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 1025 MiB Peak Used physical 1078 MiB
+[2022.01.08-17.55.13:937][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2022.01.08-17.55.13:937][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2022.01.08-17.55.13:937][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.127s (1)
+[2022.01.08-17.55.13:937][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.007s (1)
+[2022.01.08-17.55.13:937][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.815s (1)
+[2022.01.08-17.55.13:937][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2022.01.08-17.55.13:937][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.002s (1)
+[2022.01.08-17.55.13:937][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 38.801s (1545039)
+[2022.01.08-17.55.13:937][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.105s (3331076)
+[2022.01.08-17.55.13:937][361]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 15.545s (853)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 22.095s (1540110)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 4.009s (136)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 5.247s (850)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 5.246s (717)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 2.629s (853)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 2.559s (853)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.097s (853)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.005s (837)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.017s (853)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.019s (1)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.092s (1)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.027s (1)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.007s (1)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.713s (1)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.357s (1)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.009s (1)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.048s (1)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.029s (1)
+[2022.01.08-17.55.13:944][362]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2022.01.08-17.55.13:970][365]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.017995s to verify the EDL loading graph.
+[2022.01.08-17.55.14:227][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2022.01.08-17.55.14:227][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2022.01.08-17.55.14:227][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2022.01.08-17.55.14:227][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.08-17.55.14:227][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2022.01.08-17.55.14:227][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000001
+[2022.01.08-17.55.14:227][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=208.874344
+[2022.01.08-17.55.14:227][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.049756
+[2022.01.08-17.55.14:227][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=24
+[2022.01.08-17.55.14:227][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=1.126391
+[2022.01.08-17.55.14:227][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2022.01.08-17.55.14:228][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.08-17.55.14:228][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2022.01.08-17.55.14:228][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=24
+[2022.01.08-17.55.14:228][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2022.01.08-17.55.14:228][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.08-17.55.14:228][396]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=518
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=206
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=640
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=17.062986
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=647
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=688
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=204
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=853
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=2.211251
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.699783
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.094751
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000544
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.002724
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.018816
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000871
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.346023
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.401599
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.196571
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=590.747630
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2022.01.08-17.55.14:244][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=117.825377
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=22.726883
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=95.065152
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=3.980137
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000018
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=40.123232
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=15.545326
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=2.629567
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=9.255325
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2022.01.08-17.55.14:245][398]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=32.634110
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.325423
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=1.089632
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.139352
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =      1999
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =      2013
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  0.993045
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.290611
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.702434
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.006955
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =        14
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =        14
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  1.000000
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                            30.46                   0.00             0        427.71
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  4.46                   4.46             1         11.65
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      2.41                   2.41             0         10.25
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               1.95                   1.95             0          6.82
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.53                   0.53             0          2.61
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.38                   0.38             0          0.15
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.24                   0.24             0         14.34
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: AnimSequence                                    0.18                   0.18             0          0.20
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.08                   0.08             0          6.56
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Audio (Inline)                                  0.02                   0.02             0          0.00
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00            13        109.77
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2022.01.08-17.55.14:253][399]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2022.01.08-17.55.14:302][405]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Data/KaijuGameInstance.KaijuGameInstance_C:UnitBoardData.UnitBoardData'. Unknown structure.
+[2022.01.08-17.55.14:302][405]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/UnitHover_Widget.UnitHover_Widget_C:Data'. Unknown structure.
+[2022.01.08-17.55.14:302][405]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/UnitHover_Widget.UnitHover_Widget_C:ExecuteUbergraph_UnitHover_Widget:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/KaijuCard_Widget.KaijuCard_Widget_C:Data'. Unknown structure.
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/KaijuCard_Widget.KaijuCard_Widget_C:ExecuteUbergraph_KaijuCard_Widget:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/Kaiju_UI.Kaiju_UI_C:UnitMoveDataRef'. Unknown structure.
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/Kaiju_UI.Kaiju_UI_C:ExecuteUbergraph_Kaiju_UI:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/UI/Kaiju_UI.Kaiju_UI_C:ExecuteUbergraph_Kaiju_UI:CallFunc_GetDataTableRowFromName_OutRow_1'. Unknown structure.
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/TopDownBP/Character/TopDownSkeletalMesh
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/TopDownBP/Character/TopDownIdleRun
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogClass: Warning: Property UnitBoardData of UnitBoardData has a struct type mismatch (tag FallbackStruct != prop UnitBoardData_Struct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogClass: Warning: Property Data of Data has a struct type mismatch (tag STRUCT_REINST_Kaiju_Struct_18 != prop FallbackStruct) in package:  F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/UnitHover_Widget.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogClass: Warning: Property Data of Data has a struct type mismatch (tag FallbackStruct != prop Kaiju_Struct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogClass: Warning: Property UnitMoveDataRef of UnitMoveDataRef has a struct type mismatch (tag STRUCT_REINST_Kaiju_Struct_18 != prop FallbackStruct) in package:  F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/Kaiju_UI.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogClass: Warning: Property Data of Data has a struct type mismatch (tag STRUCT_REINST_Kaiju_Struct_18 != prop FallbackStruct) in package:  F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/KaijuCard_Widget.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogClass: Warning: Property UnitMoveDataRef of UnitMoveDataRef has a struct type mismatch (tag FallbackStruct != prop Kaiju_Struct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Failure - 8 error(s), 12 warning(s)
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   
+[2022.01.08-17.55.14:311][406]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  95.45 seconds
+[2022.01.08-17.55.16:387][655]UATHelper: Packaging (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.01.08-17.55.16:703][693]UATHelper: Packaging (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.01.08-17.55.22:157][344]UATHelper: Packaging (Windows (64-bit)): Took 141.0352985s to run UE4Editor-Cmd.exe, ExitCode=1
+[2022.01.08-17.55.22:173][346]UATHelper: Packaging (Windows (64-bit)): ERROR: Cook failed.
+[2022.01.08-17.55.22:173][346]UATHelper: Packaging (Windows (64-bit)):        (see C:\Users\Thai\AppData\Roaming\Unreal Engine\AutomationTool\Logs\G+UE_4.26\Log.txt for full exception trace)
+[2022.01.08-17.55.22:386][371]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=25 (Error_UnknownCookFailure)
+[2022.01.08-17.55.22:425][375]UATHelper: Packaging (Windows (64-bit)): BUILD FAILED
+[2022.01.08-17.55.22:549][378]PackagingResults: Error: Unknown Cook Failure
+[2022.01.08-17.56.19:781][285]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Data/KaijuGameInstance.KaijuGameInstance
+[2022.01.08-17.56.33:859][296]BlueprintLog: New page: Compile KaijuGameInstance
+[2022.01.08-17.56.34:007][296]LogUObjectHash: Compacting FUObjectHashTables data took   9.51ms
+[2022.01.08-17.56.34:514][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Data/KaijuGameInstance" FILE="F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/Data/KaijuGameInstance.uasset" SILENT=true
+[2022.01.08-17.56.34:518][328]LogSavePackage: Moving 'F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/KaijuGameInstanceC13426B240C3B4CFA4F60C94B5A94B24.tmp' to 'F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/Data/KaijuGameInstance.uasset'
+[2022.01.08-17.56.34:548][328]AssetCheck: New page: Asset Save: KaijuGameInstance
+[2022.01.08-17.56.34:549][328]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Data/KaijuGameInstance.KaijuGameInstance
+[2022.01.08-17.56.48:198][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Data/KaijuGameInstance" FILE="F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/Data/KaijuGameInstance.uasset" SILENT=true
+[2022.01.08-17.56.48:201][364]LogSavePackage: Moving 'F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/KaijuGameInstance61BFFCC74E993B4939D9D78DB9AE230E.tmp' to 'F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/Data/KaijuGameInstance.uasset'
+[2022.01.08-17.56.48:224][364]AssetCheck: New page: Asset Save: KaijuGameInstance
+[2022.01.08-17.56.48:224][364]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Data/KaijuGameInstance.KaijuGameInstance
+[2022.01.08-17.56.48:694][399]BlueprintLog: New page: Compile KaijuGameInstance
+[2022.01.08-17.56.48:804][399]LogUObjectHash: Compacting FUObjectHashTables data took   8.72ms
+[2022.01.08-17.56.49:266][429]BlueprintLog: New page: Compile KaijuGameInstance
+[2022.01.08-17.56.49:370][429]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2022.01.08-17.56.53:634][736]BlueprintLog: New page: Compile KaijuGameInstance
+[2022.01.08-17.56.53:738][736]LogUObjectHash: Compacting FUObjectHashTables data took   8.10ms
+[2022.01.08-17.56.54:213][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Data/KaijuGameInstance" FILE="F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/Data/KaijuGameInstance.uasset" SILENT=true
+[2022.01.08-17.56.54:216][766]LogSavePackage: Moving 'F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/KaijuGameInstance1ED7AF134C5B122F60F5DABE82E04564.tmp' to 'F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/Data/KaijuGameInstance.uasset'
+[2022.01.08-17.56.54:240][766]AssetCheck: New page: Asset Save: KaijuGameInstance
+[2022.01.08-17.56.54:240][766]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Data/KaijuGameInstance.KaijuGameInstance
+[2022.01.08-17.56.55:765][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Data/KaijuGameInstance" FILE="F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/Data/KaijuGameInstance.uasset" SILENT=true
+[2022.01.08-17.56.55:768][871]LogSavePackage: Moving 'F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/KaijuGameInstance3E8B38784A48A35D779339BE877EBCDD.tmp' to 'F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/Data/KaijuGameInstance.uasset'
+[2022.01.08-17.56.55:788][871]AssetCheck: New page: Asset Save: KaijuGameInstance
+[2022.01.08-17.56.55:788][871]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Data/KaijuGameInstance.KaijuGameInstance
+[2022.01.08-17.56.58:075][ 28]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-17.56.58:075][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.08-17.57.16:532][759]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/UnitHover_Widget.UnitHover_Widget
+[2022.01.08-17.57.16:933][759]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/KaijuCard_Widget.KaijuCard_Widget
+[2022.01.08-17.58.52:667][705]BlueprintLog: New page: Compile UnitHover_Widget
+[2022.01.08-17.58.52:880][705]LogUObjectHash: Compacting FUObjectHashTables data took   9.02ms
+[2022.01.08-17.58.53:404][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/UnitHover_Widget" FILE="F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/UnitHover_Widget.uasset" SILENT=true
+[2022.01.08-17.58.53:622][733]LogSavePackage: Moving 'F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/UnitHover_WidgetF3038B7543A7CB2A9F05AF98E86BD722.tmp' to 'F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/UnitHover_Widget.uasset'
+[2022.01.08-17.58.53:645][733]AssetCheck: New page: Asset Save: UnitHover_Widget
+[2022.01.08-17.58.53:645][733]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/UnitHover_Widget.UnitHover_Widget
+[2022.01.08-17.58.55:544][838]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-17.58.55:544][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.08-17.58.55:567][838]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-17.58.55:567][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.08-17.59.44:736][981]BlueprintLog: New page: Compile KaijuCard_Widget
+[2022.01.08-17.59.44:874][981]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2022.01.08-17.59.45:272][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/KaijuCard_Widget" FILE="F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/KaijuCard_Widget.uasset" SILENT=true
+[2022.01.08-17.59.45:341][  2]LogSavePackage: Moving 'F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/KaijuCard_Widget5FF1C187421856AB39F8EB9CDA17AE2E.tmp' to 'F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/KaijuCard_Widget.uasset'
+[2022.01.08-17.59.45:363][  2]AssetCheck: New page: Asset Save: KaijuCard_Widget
+[2022.01.08-17.59.45:363][  2]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/KaijuCard_Widget.KaijuCard_Widget
+[2022.01.08-17.59.47:308][133]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-17.59.47:309][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.08-17.59.47:326][133]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-17.59.47:326][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.08-18.00.25:966][524]BlueprintLog: New page: Compile Kaiju_UI
+[2022.01.08-18.00.26:186][524]LogUObjectHash: Compacting FUObjectHashTables data took   9.26ms
+[2022.01.08-18.00.26:610][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Kaiju_UI" FILE="F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/Kaiju_UI.uasset" SILENT=true
+[2022.01.08-18.00.26:879][548]LogSavePackage: Moving 'F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Saved/Kaiju_UI472D853B49313E066860EB88B1077257.tmp' to 'F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Content/Blueprints/UI/Kaiju_UI.uasset'
+[2022.01.08-18.00.26:903][548]AssetCheck: New page: Asset Save: Kaiju_UI
+[2022.01.08-18.00.26:903][548]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/Kaiju_UI.Kaiju_UI
+[2022.01.08-18.00.27:905][606]LogUObjectHash: Compacting FUObjectHashTables data took   8.54ms
+[2022.01.08-18.00.43:863][839]LogSlate: Window 'Kaiju_UI' being destroyed
+[2022.01.08-18.00.43:868][839]LogSlate: Window 'Kaiju_UI' being destroyed
+[2022.01.08-18.00.43:915][839]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.00.43:915][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.08-18.00.44:084][839]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.01.08-18.00.44:084][839]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.00.44:084][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.08-18.00.44:319][839]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.00.44:319][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.08-18.00.44:342][839]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.00.44:342][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.08-18.00.44:669][839]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.00.44:669][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.08-18.00.44:749][839]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.01.08-18.00.44:749][839]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.00.44:749][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.08-18.00.44:878][839]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.00.44:878][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.08-18.00.44:900][839]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.00.44:900][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.08-18.00.45:839][931]LogSlate: Window 'Output Log' being destroyed
+[2022.01.08-18.00.45:844][931]LogSlate: Window 'Output Log' being destroyed
+[2022.01.08-18.01.02:744][494]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2022.01.08-18.01.05:060][494]LogMainFrame: Project requires temp target (SteamVR plugin is disabled)
+[2022.01.08-18.01.05:060][494]LogLauncherProfile: Unable to use promoted target - F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Binaries/Win64/UE4Game.target does not exist.
+[2022.01.08-18.01.05:200][501]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2022.01.08-18.01.05:531][530]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Project_Auto_Kaiju.uproject BuildCookRun -nocompileeditor -installed -nop4 -project=F:/GitHub/Auto-Kaiju/Project_Auto_Kaiju/Project_Auto_Kaiju.uproject -cook -stage -archive -archivedirectory=F:/Documents/UnrealEngineBuildsHome/AutoFightingKaiju_Build -package -ue4exe=G:\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -build -clientconfig=Development -utf8output
+[2022.01.08-18.01.07:250][689]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Project_Auto_Kaiju.uproject
+[2022.01.08-18.01.07:250][689]UATHelper: Packaging (Windows (64-bit)): Project_Auto_Kaiju.uproject requires a temporary target.cs to be generated (SteamVR plugin is disabled)
+[2022.01.08-18.01.07:640][690]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2022.01.08-18.01.07:640][690]UATHelper: Packaging (Windows (64-bit)): Running: G:\UE_4.26\Engine\Binaries\DotNET\UnrealBuildTool.exe Project_Auto_Kaiju Win64 Development -Project=F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Project_Auto_Kaiju.uproject  F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Project_Auto_Kaiju.uproject -NoUBTMakefiles  -remoteini="F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju" -skipdeploy -Manifest=F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Intermediate\Build\Manifest.xml -NoHotReload -log="C:\Users\Thai\AppData\Roaming\Unreal Engine\AutomationTool\Logs\G+UE_4.26\UBT-Project_Auto_Kaiju-Win64-Development.txt"
+[2022.01.08-18.01.08:466][691]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build (F:\GitHub\Auto-Kaiju).
+[2022.01.08-18.01.09:790][695]UATHelper: Packaging (Windows (64-bit)):   Writing manifest to F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Intermediate\Build\Manifest.xml
+[2022.01.08-18.01.09:790][695]UATHelper: Packaging (Windows (64-bit)):   Target is up to date
+[2022.01.08-18.01.09:790][695]UATHelper: Packaging (Windows (64-bit)):   Total execution time: 2.06 seconds
+[2022.01.08-18.01.09:790][695]UATHelper: Packaging (Windows (64-bit)): Took 2.2160229s to run UnrealBuildTool.exe, ExitCode=0
+[2022.01.08-18.01.09:790][695]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND COMPLETED **********
+[2022.01.08-18.01.09:790][695]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2022.01.08-18.01.09:790][695]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Project_Auto_Kaiju.uproject
+[2022.01.08-18.01.09:790][695]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is G:\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2022.01.08-18.01.09.txt
+[2022.01.08-18.01.09:790][695]UATHelper: Packaging (Windows (64-bit)): Running: G:\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Project_Auto_Kaiju.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog=G:\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2022.01.08-18.01.09.txt -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2022.01.08-18.01.10:966][697]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: Project_Auto_Kaiju
+[2022.01.08-18.01.11:668][700]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 16 GB [17124519936 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.08-18.01.11:987][701]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.08-18.01.12:324][702]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.08-18.01.12:324][702]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.08-18.01.12:324][702]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.08-18.01.12:324][702]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.08-18.01.12:324][702]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.08-18.01.12:324][702]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.08-18.01.12:324][702]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.08-18.01.12:324][702]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2022.01.08-18.01.12:324][702]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.08-18.01.12:991][704]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.08-18.01.13:339][705]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.08-18.01.13:339][705]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Thai/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.01.08-18.01.13:339][705]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.08-18.01.13:661][706]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/Thai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=647.87MBs, RandomWriteSpeed=61.38MBs. Assigned SpeedClass 'Local'
+[2022.01.08-18.01.14:327][707]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2022.01.08-18.01.14:327][707]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2022.01.08-18.01.14:327][707]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2022.01.08-18.01.14:327][707]PackagingResults: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2022.01.08-18.01.14:327][707]PackagingResults: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2022.01.08-18.01.14:327][707]PackagingResults: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2022.01.08-18.01.14:668][709]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.08-18.01.14:668][709]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.08-18.01.15:340][711]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.08-18.01.15:340][711]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2022.01.08-18.01.15:340][711]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2022.01.08-18.01.15:698][712]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2022.01.08-18.01.15:698][712]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2022.01.08-18.01.15:698][712]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.059 seconds for platforms WindowsNoEditor
+[2022.01.08-18.01.18:040][718]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Unable to find package for cooking /Game/TopDownBP/Character/TopDownSkeletalMesh
+[2022.01.08-18.01.18:041][718]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Unable to find package for cooking /Game/TopDownBP/Character/TopDownIdleRun
+[2022.01.08-18.01.18:041][718]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 665 Total 665
+[2022.01.08-18.01.18:041][718]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=164, VirtualMemory=425MiB
+[2022.01.08-18.01.18:041][718]PackagingResults: Warning: Unable to find package for cooking /Game/TopDownBP/Character/TopDownSkeletalMesh
+[2022.01.08-18.01.18:042][718]PackagingResults: Warning: Unable to find package for cooking /Game/TopDownBP/Character/TopDownIdleRun
+[2022.01.08-18.01.21:402][729]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 161 Packages Remain 688 Total 849
+[2022.01.08-18.01.23:156][733]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2022.01.08-18.01.23:156][733]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2022.01.08-18.01.23:157][733]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2022.01.08-18.01.23:157][733]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2022.01.08-18.01.23:157][733]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2022.01.08-18.01.23:157][733]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2022.01.08-18.01.23:157][733]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2022.01.08-18.01.23:157][733]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2022.01.08-18.01.23:157][733]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2022.01.08-18.01.23:157][733]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2022.01.08-18.01.23:157][733]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.01.08-18.01.23:157][733]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.01.08-18.01.23:157][733]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureF60039EB445BD313D9FB3B83A10248ED (BGRA8, 128X128)
+[2022.01.08-18.01.23:157][733]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 661 Packages Remain 198 Total 859
+[2022.01.08-18.01.23:506][734]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 853 Packages Remain 0 Total 853
+[2022.01.08-18.01.23:506][734]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=856, VirtualMemory=1585MiB
+[2022.01.08-18.01.23:506][734]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 837, size is 353.01kb
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Code Stats: PCD3D_SM5
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders: 4960, Total Shaders: 5709, Unique Shadermaps: 352
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders Size: 11.86mb, Total Shader Size: 13.05mb
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 5.438379s total time 9.272141
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 1585 MiB Peak Used physical 1616 MiB
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.059s (1)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.473s (1)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.001s (1)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 5.438s (1737)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.002s (4682)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 3.031s (853)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 2.389s (25)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.103s (129)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.437s (851)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.437s (767)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 1.656s (853)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 1.639s (853)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.006s (853)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.003s (837)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.009s (853)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.001s (1)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.001s (1)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.022s (1)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.004s (1)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.085s (1)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.011s (1)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.002s (1)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.021s (1)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.006s (1)
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2022.01.08-18.01.24:502][737]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.012826s to verify the EDL loading graph.
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000645
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=519
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=190
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=656
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=3.422348
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2022.01.08-18.01.24:838][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=647
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=688
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=680
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=853
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=1.554135
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.404146
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.070310
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000396
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.002353
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.009495
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000663
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.247428
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.315872
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.177827
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=590.747630
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=14.564109
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=5.245135
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=9.295236
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=2.563684
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000015
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=6.669013
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=3.031590
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=1.656105
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.540058
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.019095
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000392
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.001025
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000125
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =      1999
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =      2012
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  0.993539
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.290755
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.702783
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.006461
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =        13
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =        13
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  1.000000
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2022.01.08-18.01.24:839][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             2.18                   0.00             0        427.71
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.35                   0.35             0         11.63
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.12                   0.12             0         14.34
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.07                   0.07             0          6.82
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.06                   0.06             0         10.25
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.01                   0.01             0          2.61
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          6.56
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Audio (Inline)                                  0.01                   0.01             0          0.00
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.01                   0.01             0          0.15
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: AnimSequence                                    0.00                   0.00             0          0.20
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00            13        109.77
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/TopDownBP/Character/TopDownSkeletalMesh
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/TopDownBP/Character/TopDownIdleRun
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 5 warning(s)
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   
+[2022.01.08-18.01.24:840][738]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  9.34 seconds
+[2022.01.08-18.01.25:172][739]UATHelper: Packaging (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.01.08-18.01.25:505][740]UATHelper: Packaging (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.01.08-18.01.29:847][753]UATHelper: Packaging (Windows (64-bit)): Took 19.794611s to run UE4Editor-Cmd.exe, ExitCode=0
+[2022.01.08-18.01.29:847][753]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2022.01.08-18.01.29:847][753]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2022.01.08-18.01.29:847][753]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\BaseEditor.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\BaseEditorKeyBindings.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\BaseEditorSettings.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\BaseLightmass.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\BasePakFileRules.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\Localization\Category.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\Localization\Editor.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\Localization\EditorTutorials.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\Localization\Engine.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\Localization\Keywords.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\Localization\PortableObjectExport.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\Localization\PortableObjectImport.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\Localization\PropertyNames.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\Localization\RepairData.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\Localization\ToolTips.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file G:\UE_4.26\Engine\Config\Localization\WordCount.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Config\DefaultEditor.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Excluding config file F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Config\DefaultEditorPerProjectUserSettings.ini
+[2022.01.08-18.01.30:181][754]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Saved\StagedBuilds\WindowsNoEditor
+[2022.01.08-18.01.31:848][759]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2022.01.08-18.01.33:186][763]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2022.01.08-18.01.39:555][782]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2022.01.08-18.01.39:555][782]UATHelper: Packaging (Windows (64-bit)): Output from: F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Project_Auto_Kaiju.uproject F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Saved\StagedBuilds\WindowsNoEditor\Project_Auto_Kaiju\Content\Paks\Project_Auto_Kaiju-WindowsNoEditor.pak -create="C:\Users\Thai\AppData\Roaming\Unreal Engine\AutomationTool\Logs\G+UE_4.26\PakList_Project_Auto_Kaiju-WindowsNoEditor.txt" -cryptokeys=F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Saved\Cooked\WindowsNoEditor\Project_Auto_Kaiju\Metadata\Crypto.json -order=F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048 -platform=Windows  -multiprocess -abslog="C:\Users\Thai\AppData\Roaming\Unreal Engine\AutomationTool\Logs\G+UE_4.26\UnrealPak-Project_Auto_Kaiju-WindowsNoEditor-2022.01.08-18.01.32.txt"
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\Thai\AppData\Roaming\Unreal Engine\AutomationTool\Logs\G+UE_4.26\PakList_Project_Auto_Kaiju-WindowsNoEditor.txt
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 2951 entries to add to pak file.
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 2951 files in 0.01s.
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Saved\StagedBuilds\WindowsNoEditor\Project_Auto_Kaiju\Content\Paks\Project_Auto_Kaiju-WindowsNoEditor.pak.
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/Thai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 2951 files, 647750649 bytes total, time 3.53s.
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PrimaryIndex size: 35526 bytes
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PathHashIndex size: 57978 bytes
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: FullDirectoryIndex size: 96140 bytes
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 3.712235 seconds
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2022.01.08-18.01.39:556][782]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: F:\GitHub\Auto-Kaiju\Project_Auto_Kaiju\Saved\StagedBuilds\WindowsNoEditor
+[2022.01.08-18.01.45:229][799]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2022.01.08-18.01.45:229][799]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2022.01.08-18.01.45:229][799]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2022.01.08-18.01.45:229][799]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2022.01.08-18.01.45:229][799]UATHelper: Packaging (Windows (64-bit)): Archiving to F:/Documents/UnrealEngineBuildsHome/AutoFightingKaiju_Build
+[2022.01.08-18.01.48:625][809]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2022.01.08-18.01.48:625][809]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2022.01.08-18.01.48:625][809]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2022.01.08-18.18.42:456][117]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2022.01.08-18.18.42:531][117]LogSlate: Window 'Project_Auto_Kaiju - Unreal Editor' being destroyed
+[2022.01.08-18.18.42:533][117]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.08-18.18.42:840][118]Cmd: QUIT_EDITOR
+[2022.01.08-18.18.42:840][118]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.01.08-18.18.42:886][118]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.01.08-18.18.43:538][118]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.01.08-18.18.43:539][118]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.01.08-18.18.43:539][118]LogAudio: Display: Audio Device unregistered from world 'TopDownExampleMap'.
+[2022.01.08-18.18.43:539][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.08-18.18.43:540][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.08-18.18.43:575][118]LogAudio: Display: Audio Device Manager Shutdown
+[2022.01.08-18.18.43:582][118]LogExit: Preparing to exit.
+[2022.01.08-18.18.44:234][118]LogDeviceProfile: Device profile begin destroy: [00000204C4696000] Windows
+[2022.01.08-18.18.44:234][118]LogDeviceProfile: Device profile begin destroy: [00000204C4696100] Default__DeviceProfile
+[2022.01.08-18.18.44:234][118]LogDeviceProfile: Device profile begin destroy: [00000204C463A200] WindowsNoEditor
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4695300] WindowsServer
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C463AE00] WindowsClient
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4694800] IOS
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C463B700] iPadAir
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4695000] iPadAir2
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D6700] IPadPro
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D6800] iPadAir3
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C463AC00] iPadAir4
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D6600] iPadMini2
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4638800] iPadMini3
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D6500] iPadMini4
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4638B00] iPadMini5
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4616000] iPhone6
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4616100] iPodTouch6
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D5A00] iPhone7
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D5900] iPodTouch7
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4617800] iPhone5S
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D5700] iPhone6Plus
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4617000] iPhone6S
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D4900] iPhone6SPlus
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4617600] iPhone7Plus
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D7300] iPhoneSE
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4617700] iPhone8
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D7600] iPhone8Plus
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4615F00] iPhoneX
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D5B00] iPhoneXS
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4614600] iPhoneXSMax
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D4F00] iPhoneXR
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4616600] iPhone11
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D5600] iPhone11Pro
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4614700] iPhone11ProMax
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D4100] iPhoneSE2
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4615C00] iPhone12Mini
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D5D00] iPhone12
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4615600] iPhone12Pro
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D5400] iPhone12ProMax
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4617B00] iPadPro105
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D7200] iPadPro129
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4616E00] iPadPro97
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D4C00] iPadPro2_129
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4695400] iPad5
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D5200] iPad6
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4696F00] iPad7
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D7B00] iPad8
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4694100] iPadPro11
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D7800] iPadPro2_11
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4696A00] iPadPro3_129
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D5E00] iPadPro4_129
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4695100] AppleTV
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D7700] AppleTV4K
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4697000] TVOS
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D4300] Mac
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4695D00] MacClient
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D6F00] MacNoEditor
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4695600] MacServer
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D7500] Linux
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4694A00] LinuxAArch64
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D4600] LinuxNoEditor
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4695B00] LinuxAArch64NoEditor
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D4200] LinuxClient
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4695700] LinuxAArch64Client
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D4A00] LinuxServer
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4694F00] LinuxAArch64Server
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D5300] Android
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C4696500] Android_Low
+[2022.01.08-18.18.44:235][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D4E00] Android_Mid
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4694400] Android_High
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D4B00] Android_Default
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4695F00] Android_Adreno4xx
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D7C00] Android_Adreno5xx_Low
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4695C00] Android_Adreno5xx
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D5000] Android_Adreno6xx
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4694B00] Android_Adreno6xx_Vulkan
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D5500] Android_Mali_T6xx
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4696200] Android_Mali_T7xx
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D6900] Android_Mali_T8xx
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4696400] Android_Mali_G71
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D7100] Android_Mali_G72
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4695200] Android_Mali_G72_Vulkan
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C45D7A00] Android_Mali_G76
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4695500] Android_Mali_G76_Vulkan
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4638200] Android_Mali_G77
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4617900] Android_Mali_G77_Vulkan
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C463A500] Android_Vulkan_SM5
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4615900] Android_PowerVR_G6xxx
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4639100] Android_PowerVR_GT7xxx
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4615000] Android_PowerVR_GE8xxx
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4638C00] Android_PowerVR_GM9xxx
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4616400] Android_PowerVR_GM9xxx_Vulkan
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4639600] Android_TegraK1
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4617200] Android_Unknown_Vulkan
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4638400] Lumin
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C4615800] Lumin_Desktop
+[2022.01.08-18.18.44:236][118]LogDeviceProfile: Device profile begin destroy: [00000204C463AB00] HoloLens
+[2022.01.08-18.18.44:266][118]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:266][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:267][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:268][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:268][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:268][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:268][118]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.18.44:268][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:268][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:268][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:268][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:268][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:268][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:268][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:268][118]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.18.44:268][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:269][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:269][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:269][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:269][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:269][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:269][118]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.01.08-18.18.44:269][118]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.18.44:364][118]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.01.08-18.18.44:418][118]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.01.08-18.18.44:484][118]LogExit: Editor shut down
+[2022.01.08-18.18.44:488][118]LogExit: Transaction tracking system shut down
+[2022.01.08-18.18.54:218][118]LogWindows: Error: === Critical error: ===
+[2022.01.08-18.18.54:218][118]LogWindows: Error: 
+[2022.01.08-18.18.54:218][118]LogWindows: Error: Fatal error!
+[2022.01.08-18.18.54:218][118]LogWindows: Error: 
+[2022.01.08-18.18.54:218][118]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION 0x0000008000000000
+[2022.01.08-18.18.54:218][118]LogWindows: Error: 
+[2022.01.08-18.18.54:218][118]LogWindows: Error: [Callstack] 0x0000008000000000 UnknownFunction []
+[2022.01.08-18.18.54:218][118]LogWindows: Error: [Callstack] 0x00007ffb2b47f74b UE4Editor-Engine.dll!UnknownFunction []
+[2022.01.08-18.18.54:218][118]LogWindows: Error: [Callstack] 0x00007ffb487d2bd0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.08-18.18.54:218][118]LogWindows: Error: [Callstack] 0x00007ffb48a647db UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.08-18.18.54:218][118]LogWindows: Error: [Callstack] 0x00007ffb48a59dec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.08-18.18.54:218][118]LogWindows: Error: [Callstack] 0x00007ffb489f7ded UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.08-18.18.54:218][118]LogWindows: Error: [Callstack] 0x00007ffb489f899d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.08-18.18.54:218][118]LogWindows: Error: [Callstack] 0x00007ffb48a9216f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.08-18.18.54:218][118]LogWindows: Error: [Callstack] 0x00007ffb48891827 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.01.08-18.18.54:218][118]LogWindows: Error: [Callstack] 0x00007ff6008f93bd UE4Editor.exe!UnknownFunction []
+[2022.01.08-18.18.54:218][118]LogWindows: Error: [Callstack] 0x00007ff6008f8d0d UE4Editor.exe!UnknownFunction []
+[2022.01.08-18.18.54:218][118]LogWindows: Error: [Callstack] 0x00007ff600900649 UE4Editor.exe!UnknownFunction []
+[2022.01.08-18.18.54:219][118]LogWindows: Error: [Callstack] 0x00007ff600901207 UE4Editor.exe!UnknownFunction []
+[2022.01.08-18.18.54:219][118]LogWindows: Error: [Callstack] 0x00007ff60090125a UE4Editor.exe!UnknownFunction []
+[2022.01.08-18.18.54:219][118]LogWindows: Error: [Callstack] 0x00007ff6009152bd UE4Editor.exe!UnknownFunction []
+[2022.01.08-18.18.54:219][118]LogWindows: Error: [Callstack] 0x00007ff600917fea UE4Editor.exe!UnknownFunction []
+[2022.01.08-18.18.54:219][118]LogWindows: Error: [Callstack] 0x00007ffbb4857c24 KERNEL32.DLL!UnknownFunction []
+[2022.01.08-18.18.54:219][118]LogWindows: Error: [Callstack] 0x00007ffbb5e6d721 ntdll.dll!UnknownFunction []
+[2022.01.08-18.18.54:219][118]LogWindows: Error: 
+[2022.01.08-18.18.54:250][118]LogExit: Executing StaticShutdownAfterError
+[2022.01.08-18.18.54:295][118]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.01.08-18.18.54:295][118]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2022.01.08-18.18.54:329][118]Log file closed, 01/08/22 18:18:54
